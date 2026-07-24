@@ -15,12 +15,12 @@ más correcciones propias (splits que el vendor perdió, resolución de renames 
 Los archivos se leen directo por raw, sin autenticación:
 
 ```
-https://raw.githubusercontent.com/quantlab-smallcaps/ticker-reference-data/main/data/fresh_universe.csv
-https://raw.githubusercontent.com/quantlab-smallcaps/ticker-reference-data/main/data/ticker_changes.json
+https://raw.githubusercontent.com/Quant-Lodge/ticker-reference-data/main/data/fresh_universe.csv
+https://raw.githubusercontent.com/Quant-Lodge/ticker-reference-data/main/data/ticker_changes.json
 ```
 
 ```bash
-curl -sSfL https://raw.githubusercontent.com/quantlab-smallcaps/ticker-reference-data/main/data/fresh_universe.csv -o fresh_universe.csv
+curl -sSfL https://raw.githubusercontent.com/Quant-Lodge/ticker-reference-data/main/data/fresh_universe.csv -o fresh_universe.csv
 ```
 
 El CDN de `raw.githubusercontent.com` cachea unos minutos — si necesitás el dato
