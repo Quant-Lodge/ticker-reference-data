@@ -12,20 +12,28 @@ más correcciones propias (splits que el vendor perdió, resolución de renames 
 
 ## Consumo
 
-Los archivos se leen directo por raw, sin autenticación:
+Cada día se publica un **release tageado con el `as_of`** del snapshot. Los assets
+de un tag son inmutables, así que la URL identifica el contenido sin ambigüedad:
+
+```bash
+# El snapshot de una fecha concreta. 200 = es ese día, garantizado. 404 = todavía
+# no se publicó (y tu proceso sabe que tiene que seguir con su copia anterior).
+curl -sSfL https://github.com/Quant-Lodge/ticker-reference-data/releases/download/2026-07-24/fresh_universe.csv -o fresh_universe.csv
+
+# El último publicado, sea cual sea.
+curl -sSfL https://github.com/Quant-Lodge/ticker-reference-data/releases/latest/download/fresh_universe.csv -o fresh_universe.csv
+```
+
+**Preferí los releases para consumo automatizado.** También están los archivos en
+`data/`, pero se sirven por `raw.githubusercontent.com`, que apunta a una rama
+mutable y por eso cachea (`max-age=300`): justo después de un push podés recibir
+la versión anterior. Medido sirviendo contenido de 218 s atrás. Para leerlos a
+ojo desde el navegador da igual; para un proceso que necesita el dato del día, no.
 
 ```
 https://raw.githubusercontent.com/Quant-Lodge/ticker-reference-data/main/data/fresh_universe.csv
 https://raw.githubusercontent.com/Quant-Lodge/ticker-reference-data/main/data/ticker_changes.json
 ```
-
-```bash
-curl -sSfL https://raw.githubusercontent.com/Quant-Lodge/ticker-reference-data/main/data/fresh_universe.csv -o fresh_universe.csv
-```
-
-El CDN de `raw.githubusercontent.com` cachea unos minutos — si necesitás el dato
-recién publicado, usá la URL de la API (`api.github.com/repos/.../contents/...`)
-que no pasa por ese cache.
 
 ## `fresh_universe.csv`
 

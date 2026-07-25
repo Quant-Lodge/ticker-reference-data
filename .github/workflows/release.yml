@@ -1,0 +1,97 @@
+name: Release on data change
+
+# Publica un release por día, tageado con el as_of del universo.
+#
+# Por qué release y no raw: la URL de raw apunta a una rama, que es MUTABLE, así
+# que el CDN la cachea con max-age=300 — medido sirviendo contenido de 218s atrás
+# justo después de un push. El asset de un tag es INMUTABLE:
+#
+#   releases/download/2026-07-25/fresh_universe.csv
+#
+# 200 = es el del día, garantizado, sin validar nada. 404 = todavía no se publicó
+# y el consumidor sabe que tiene que seguir con su copia local. Eso le saca al
+# bot toda la lógica de "¿lo que bajé será el de hoy?".
+#
+# Corre acá y no en Daedalus a propósito: el pipeline pushea con una deploy key,
+# que sirve para git pero no para la API de releases. Disparándolo desde el push
+# alcanza el GITHUB_TOKEN de este repo y no hace falta ninguna credencial nueva.
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/**']
+  workflow_dispatch:
+
+concurrency:
+  group: release-data
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Derive tag from as_of
+        id: meta
+        run: |
+          set -euo pipefail
+          AS_OF=$(awk -F, 'NR==2{print $5}' data/fresh_universe.csv)
+          case "$AS_OF" in
+            [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]) ;;
+            *) echo "::error::as_of inesperado en fresh_universe.csv: '$AS_OF'"; exit 1 ;;
+          esac
+          ROWS=$(($(wc -l < data/fresh_universe.csv) - 1))
+          RENAMES=$(python3 -c 'import json;d=json.load(open("data/ticker_changes.json"));print(sum(1 for v in d.values() if isinstance(v,dict) and v.get("old_ticker")))')
+          {
+            echo "as_of=$AS_OF"
+            echo "rows=$ROWS"
+            echo "renames=$RENAMES"
+          } >> "$GITHUB_OUTPUT"
+          echo "as_of=$AS_OF rows=$ROWS renames=$RENAMES"
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AS_OF: ${{ steps.meta.outputs.as_of }}
+          ROWS: ${{ steps.meta.outputs.rows }}
+          RENAMES: ${{ steps.meta.outputs.renames }}
+        run: |
+          set -euo pipefail
+          NOTES="Snapshot del $AS_OF.
+
+          - \`fresh_universe.csv\` — $ROWS tickers frescos (IPO o reverse split ≤365 días)
+          - \`ticker_changes.json\` — $RENAMES renames resueltos por CIK
+
+          Assets inmutables. Para el del día:
+
+              https://github.com/${GITHUB_REPOSITORY}/releases/download/$AS_OF/fresh_universe.csv
+
+          Para el último publicado, sea cual sea:
+
+              https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/fresh_universe.csv"
+
+          # Re-correr el mismo día reemplaza los assets en vez de fallar: el tag
+          # es la FECHA del dato, no el número de corrida.
+          if gh release view "$AS_OF" >/dev/null 2>&1; then
+            echo "release $AS_OF ya existe — actualizando assets"
+            gh release upload "$AS_OF" data/fresh_universe.csv data/ticker_changes.json --clobber
+            gh release edit "$AS_OF" --notes "$NOTES"
+          else
+            gh release create "$AS_OF" \
+              data/fresh_universe.csv data/ticker_changes.json \
+              --title "Reference data $AS_OF" \
+              --notes "$NOTES" \
+              --latest
+          fi
+
+          {
+            echo "### Release \`$AS_OF\`"
+            echo ""
+            echo "- $ROWS tickers · $RENAMES renames"
+            echo "- https://github.com/${GITHUB_REPOSITORY}/releases/tag/$AS_OF"
+          } >> "$GITHUB_STEP_SUMMARY"
