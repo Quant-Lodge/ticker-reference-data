@@ -1500,7 +1500,11 @@
     "old_ticker": null
   },
   "AEAE": null,
-  "AEAEU": null,
+  "AEAEU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AEAEW": null,
   "AEAQ": {
     "cik": "0002083689",
@@ -4737,7 +4741,11 @@
     "old_ticker": null
   },
   "AQUNR": null,
-  "AQUNU": null,
+  "AQUNU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AQWA": {
     "cik": "0001432353",
     "old_ticker": "QQQV"
@@ -26534,7 +26542,11 @@
     "old_ticker": null
   },
   "FORL": null,
-  "FORLU": null,
+  "FORLU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FORLW": null,
   "FORM": {
     "cik": "0001039399",
@@ -27510,7 +27522,11 @@
     "old_ticker": null
   },
   "FTII": null,
-  "FTIIU": null,
+  "FTIIU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FTIIW": null,
   "FTIV": {
     "cik": null,
@@ -28629,7 +28645,11 @@
   },
   "GDST": null,
   "GDSTR": null,
-  "GDSTU": null,
+  "GDSTU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GDSTW": null,
   "GDT": {
     "cik": null,
@@ -47545,7 +47565,11 @@
     "old_ticker": null
   },
   "NBST": null,
-  "NBSTU": null,
+  "NBSTU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NBSTW": null,
   "NBTB": {
     "cik": "0000790359",
@@ -55188,7 +55212,11 @@
     "old_ticker": null
   },
   "PPYA": null,
-  "PPYAU": null,
+  "PPYAU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PPYAW": null,
   "PQAP": {
     "cik": null,
@@ -73166,7 +73194,11 @@
   },
   "YOTA": null,
   "YOTAR": null,
-  "YOTAU": null,
+  "YOTAU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "YOTAW": null,
   "YOU": {
     "cik": "0001856314",
