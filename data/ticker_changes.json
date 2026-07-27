@@ -50002,6 +50002,11 @@
     "old_ticker": null
   },
   "NVDY": null,
+  "NVEC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NVEI": {
     "cik": null,
     "flat_file_only": true,
@@ -60046,6 +60051,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SAFT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SAFX": {
     "cik": "0002019793",
     "old_ticker": null
@@ -60828,6 +60838,11 @@
     "old_ticker": null
   },
   "SCTL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SCTX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -67606,6 +67621,11 @@
     "cik": "0001785424",
     "old_ticker": "FSRV"
   },
+  "TSDD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TSE": {
     "cik": null,
     "flat_file_only": true,
@@ -69939,6 +69959,11 @@
     "old_ticker": null
   },
   "VIOT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "VIP": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
