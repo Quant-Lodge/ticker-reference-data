@@ -2294,6 +2294,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "AHPI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AHPPB": {
     "cik": null,
     "flat_file_only": true,
@@ -7155,6 +7160,11 @@
     "cik": "0001649739",
     "old_ticker": null
   },
+  "BAGX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BAGY": {
     "cik": null,
     "flat_file_only": true,
@@ -10581,6 +10591,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "BRSV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BRTMU": {
     "cik": null,
     "flat_file_only": true,
@@ -11440,6 +11455,11 @@
     "old_ticker": null
   },
   "BUSEP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "BUSM": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -18019,6 +18039,11 @@
   },
   "DANA": {
     "cik": "0001742912",
+    "old_ticker": null
+  },
+  "DAO": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "DAOO": {
@@ -27626,7 +27651,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FTRA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FTRA.U": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "FTRA.WS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -35290,6 +35325,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "IFMK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "IFN": {
     "cik": "0000917100",
     "old_ticker": null
@@ -36667,6 +36707,11 @@
     "old_ticker": null
   },
   "IPVIW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "IPVV": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -42668,6 +42713,11 @@
   "LTCC": null,
   "LTCH": null,
   "LTCHW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "LTGR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -55499,6 +55549,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "PROF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PROG": {
     "cik": null,
     "flat_file_only": true,
@@ -58052,6 +58107,11 @@
     "old_ticker": null
   },
   "RECV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "REDU": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -61445,6 +61505,11 @@
     "old_ticker": null
   },
   "SGIIW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SGLB": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -66607,6 +66672,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TLGT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TLGY": {
     "cik": null,
     "flat_file_only": true,
@@ -67030,6 +67100,16 @@
     "cik": "0000314227",
     "old_ticker": null
   },
+  "TONT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TONT.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TONX": {
     "cik": "0001566610",
     "old_ticker": "VERB"
@@ -67440,8 +67520,18 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TRNI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TRNR": {
     "cik": "0001785056",
+    "old_ticker": null
+  },
+  "TRNZ": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "TRON": {
@@ -71716,6 +71806,11 @@
     "old_ticker": null
   },
   "WPF.U": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WPG": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
