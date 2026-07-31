@@ -9653,6 +9653,11 @@
     "cik": "0001838163",
     "old_ticker": "DHCA"
   },
+  "BNAV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BNBX": {
     "cik": "0000744452",
     "old_ticker": "APDN"
@@ -30587,6 +30592,11 @@
     "cik": "0001537054",
     "old_ticker": null
   },
+  "GOIB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GOL": {
     "cik": null,
     "flat_file_only": true,
@@ -35709,6 +35719,11 @@
     "old_ticker": null
   },
   "IMBIL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "IMC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71988,6 +72003,11 @@
   },
   "WSHP": {
     "cik": "0002048271",
+    "old_ticker": null
+  },
+  "WSMD": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "WSO.B": {
