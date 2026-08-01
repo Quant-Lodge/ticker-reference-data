@@ -4878,6 +4878,11 @@
     "cik": "0001508478",
     "old_ticker": null
   },
+  "ARCP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ARCT": {
     "cik": "0001768224",
     "old_ticker": null
@@ -5130,6 +5135,11 @@
     "old_ticker": "APHB"
   },
   "ARMR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ARMS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -22062,6 +22072,11 @@
     "cik": "0002013320",
     "old_ticker": null
   },
+  "ELOL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ELON": {
     "cik": null,
     "flat_file_only": true,
@@ -31913,6 +31928,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "GYGY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GYRE": {
     "cik": "0001124105",
     "old_ticker": null
@@ -37125,7 +37145,17 @@
     "cik": "0001761055",
     "old_ticker": null
   },
+  "ISNR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ISNRU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ISNRW": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -38256,6 +38286,11 @@
   },
   "JMID": {
     "cik": "0001500604",
+    "old_ticker": null
+  },
+  "JMKE": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "JMLP": {
@@ -52963,6 +52998,11 @@
     "cik": "0001546066",
     "old_ticker": null
   },
+  "PBAM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PBAP": {
     "cik": null,
     "flat_file_only": true,
@@ -58174,6 +58214,11 @@
     "cik": "0001140215",
     "old_ticker": "REEDR"
   },
+  "REF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "REFA": {
     "cik": "0001551950",
     "old_ticker": null
@@ -61118,6 +61163,11 @@
     "old_ticker": null
   },
   "SDTY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SDUR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -68217,6 +68267,11 @@
     "old_ticker": null
   },
   "TVIVU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TVIVW": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
