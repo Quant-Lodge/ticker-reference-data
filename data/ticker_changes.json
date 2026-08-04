@@ -38301,6 +38301,11 @@
     "cik": "0002007846",
     "old_ticker": null
   },
+  "JLVP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "JMAC": {
     "cik": null,
     "flat_file_only": true,
