@@ -7607,6 +7607,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "BCCQ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BCCQU": {
     "cik": null,
     "flat_file_only": true,
@@ -15531,6 +15536,11 @@
     "cik": "0001729427",
     "old_ticker": null
   },
+  "CNSY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CNTA": {
     "cik": "0001847903",
     "old_ticker": null
@@ -18495,6 +18505,11 @@
     "cik": "0001415726",
     "old_ticker": null
   },
+  "DDFG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "DDFJ": {
     "cik": "0001415726",
     "old_ticker": null
@@ -18582,6 +18597,11 @@
   },
   "DDTF": {
     "cik": "0001415726",
+    "old_ticker": null
+  },
+  "DDTG": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "DDTJ": {
@@ -50911,7 +50931,22 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "OCAC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "OCAC.U": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "OCAC.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "OCACR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -51889,6 +51924,11 @@
     "old_ticker": null
   },
   "OPPE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "OPPG": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -58906,6 +58946,11 @@
     "old_ticker": null
   },
   "RJAC.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RJCA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
