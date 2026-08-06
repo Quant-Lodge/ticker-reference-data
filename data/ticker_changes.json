@@ -1291,6 +1291,11 @@
     "cik": "0002006986",
     "old_ticker": null
   },
+  "ADIG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ADIL": {
     "cik": "0001513525",
     "old_ticker": null
@@ -6275,6 +6280,11 @@
     "old_ticker": null
   },
   "AUG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "AUGC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -12323,6 +12333,11 @@
     "old_ticker": null
   },
   "CAUD": null,
+  "CAUG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CAVA": {
     "cik": "0001639438",
     "old_ticker": null
@@ -13898,6 +13913,11 @@
   },
   "CHCT": {
     "cik": "0001631569",
+    "old_ticker": null
+  },
+  "CHDG": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CHEA": {
@@ -17203,6 +17223,11 @@
     "old_ticker": null
   },
   "CTAQW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "CTAU": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -22230,6 +22255,11 @@
     "cik": "0001866226",
     "old_ticker": "WTMA"
   },
+  "EMAU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "EMBC": {
     "cik": "0001872789",
     "old_ticker": null
@@ -24965,6 +24995,11 @@
     "cik": "0000945908",
     "old_ticker": null
   },
+  "FDMM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FDMMU": {
     "cik": null,
     "flat_file_only": true,
@@ -25891,6 +25926,11 @@
   },
   "FIYY": {
     "cik": "0000312070",
+    "old_ticker": null
+  },
+  "FIZY": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "FJAN": {
@@ -32157,6 +32197,11 @@
     "cik": "0001561894",
     "old_ticker": null
   },
+  "HAUG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "HAVA": {
     "cik": "0002042460",
     "old_ticker": null
@@ -35218,6 +35263,11 @@
     "old_ticker": null
   },
   "IDAT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "IDAU": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -46907,6 +46957,11 @@
     "cik": "0000901243",
     "old_ticker": null
   },
+  "MUAR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MUARW": {
     "cik": null,
     "flat_file_only": true,
@@ -50914,6 +50969,11 @@
   },
   "OBTC": {
     "cik": "0001767057",
+    "old_ticker": null
+  },
+  "OBX": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "OCA": {
@@ -56875,6 +56935,11 @@
     "cik": "0001100663",
     "old_ticker": "AAIT"
   },
+  "QAU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "QB": {
     "cik": null,
     "flat_file_only": true,
@@ -57245,6 +57310,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "QNME": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "QNRX": {
     "cik": "0001671502",
     "old_ticker": "APOP"
@@ -57312,6 +57382,11 @@
   },
   "QQA": {
     "cik": "0001418144",
+    "old_ticker": null
+  },
+  "QQAU": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "QQC": {
@@ -60847,6 +60922,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SCAU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SCCB": {
     "cik": null,
     "flat_file_only": true,
@@ -62862,8 +62942,18 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SMHD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SMHI": {
     "cik": "0001690334",
+    "old_ticker": null
+  },
+  "SMHU": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SMHX": {
@@ -64628,6 +64718,11 @@
   "STLA": {
     "cik": "0001605484",
     "old_ticker": "FCAU"
+  },
+  "STLN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "STLR": {
     "cik": null,
@@ -73507,6 +73602,11 @@
     "old_ticker": null
   },
   "YICCU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "YICCW": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
