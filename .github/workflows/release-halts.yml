@@ -1,0 +1,140 @@
+name: Release halts on change
+
+# Publica un release con el histórico de HALTS, tageado con la fecha del último
+# halt de la serie.
+#
+# Mismo razonamiento que release.yml: la URL de raw apunta a una rama MUTABLE y el
+# CDN la cachea (max-age=300), así que justo después de un push podés recibir la
+# versión anterior. El asset de un tag es inmutable.
+#
+# ── Por qué un workflow aparte y no un `paths` más en release.yml ────────────
+# release.yml deriva el tag del `as_of` que viene DENTRO de fresh_universe.csv.
+# Los dos pipelines corren a horas distintas —halts a las 02:00/03:00 UTC,
+# reference-data a las 06:15— así que cuando halts pushea, fresh_universe.csv
+# todavía es el de AYER: los halts de hoy habrían quedado en el release tageado
+# ayer. Cada dataset deriva su tag de SU propio dato.
+#
+# ── Por qué el tag lleva prefijo y no es sólo la fecha ───────────────────────
+# `2026-08-07` ya lo usa reference-data. Dos datasets con distinta cadencia no
+# pueden compartir espacio de tags sin pisarse los assets.
+#
+# ── Por qué NO se marca como `latest` ────────────────────────────────────────
+# `releases/latest` es un puntero único del repo y el README se lo promete a
+# `fresh_universe.csv`, que es lo que consume el bot. Si halts lo tomara, ese
+# contrato se rompería en silencio cada noche. Para halts se usa el tag con
+# fecha, que es el mismo patrón que el README ya documenta: 200 = es el de ese
+# día, 404 = todavía no se publicó.
+
+on:
+  push:
+    branches: [main]
+    paths: ['history/halts/**']
+  workflow_dispatch:
+
+concurrency:
+  group: release-halts
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Derive tag + counts
+        id: meta
+        run: |
+          set -euo pipefail
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import csv, os, pathlib
+
+          d = pathlib.Path("history/halts")
+          archivos = sorted(d.glob("*.csv"))
+          if not archivos:
+              raise SystemExit("::error::no hay CSVs en history/halts")
+
+          total = 0
+          ultimo = ""
+          por_año = []
+          for p in archivos:
+              filas = list(csv.DictReader(p.open()))
+              if not filas:
+                  raise SystemExit(f"::error::{p.name} está vacío")
+              total += len(filas)
+              por_año.append((p.stem, len(filas)))
+              # La serie está ordenada por (halt_date, halt_time, symbol), pero no se
+              # asume: el max explícito cuesta nada y no depende de ese invariante.
+              ultimo = max(ultimo, max(r["halt_date"] for r in filas))
+
+          if len(ultimo) != 10 or ultimo[4] != "-":
+              raise SystemExit(f"::error::halt_date inesperado como as_of: {ultimo!r}")
+
+          print(f"as_of={ultimo}")
+          print(f"total={total}")
+          print(f"desde={por_año[0][0]}")
+          print(f"hasta={por_año[-1][0]}")
+          print("por_anio=" + " · ".join(f"{a} {n:,}" for a, n in por_año))
+          PY
+          cat "$GITHUB_OUTPUT"
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AS_OF: ${{ steps.meta.outputs.as_of }}
+          TOTAL: ${{ steps.meta.outputs.total }}
+          DESDE: ${{ steps.meta.outputs.desde }}
+          HASTA: ${{ steps.meta.outputs.hasta }}
+          POR_ANIO: ${{ steps.meta.outputs.por_anio }}
+        run: |
+          set -euo pipefail
+          TAG="halts-$AS_OF"
+
+          # Los assets se renombran con prefijo: `2026.csv` suelto, fuera del repo,
+          # no dice de qué es.
+          rm -rf /tmp/assets && mkdir -p /tmp/assets
+          for f in history/halts/*.csv; do
+            cp "$f" "/tmp/assets/halts_$(basename "$f")"
+          done
+
+          # El snapshot lleva TODOS los años, no sólo el corriente: el feed devuelve
+          # halts que siguen abiertos de años anteriores (SVA lleva halteada desde
+          # 2023-06-13) y esos se rutean al archivo de SU año, así que un año viejo
+          # puede cambiar cualquier día.
+          NOTES="Histórico de trading halts al $AS_OF — $TOTAL eventos, $DESDE→$HASTA.
+
+          Un CSV por año: \`halts_YYYY.csv\`. $POR_ANIO
+
+          Fuentes: NYSE, Nasdaq y Cboe reconciliadas (la columna \`fuentes\` dice
+          cuáles vieron cada evento); precios de reapertura vía Polygon.
+
+          Assets inmutables:
+
+              https://github.com/${GITHUB_REPOSITORY}/releases/download/$TAG/halts_${HASTA}.csv
+
+          Este release NO se marca como \`latest\` — ese puntero es de
+          \`fresh_universe.csv\`. Para el histórico usá el tag con fecha."
+
+          # Re-correr el mismo día reemplaza los assets: el tag es la FECHA del dato,
+          # no el número de corrida. Y --latest=false explícito, porque gh marca como
+          # latest al release más nuevo si no se le dice lo contrario.
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "release $TAG ya existe — actualizando assets"
+            gh release upload "$TAG" /tmp/assets/*.csv --clobber
+            gh release edit "$TAG" --notes "$NOTES" --latest=false
+          else
+            gh release create "$TAG" /tmp/assets/*.csv \
+              --title "Trading halts $AS_OF" \
+              --notes "$NOTES" \
+              --latest=false
+          fi
+
+          {
+            echo "### Release \`$TAG\`"
+            echo ""
+            echo "- $TOTAL eventos · $DESDE→$HASTA"
+            echo "- https://github.com/${GITHUB_REPOSITORY}/releases/tag/$TAG"
+          } >> "$GITHUB_STEP_SUMMARY"
