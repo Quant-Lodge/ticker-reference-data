@@ -109,7 +109,7 @@ jobs:
           Un CSV por año: \`halts_YYYY.csv\`. $POR_ANIO
 
           Fuentes: NYSE, Nasdaq y Cboe reconciliadas (la columna \`fuentes\` dice
-          cuáles vieron cada evento); precios de reapertura vía Polygon.
+          cuáles vieron cada evento).
 
           Assets inmutables:
 

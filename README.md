@@ -2,9 +2,9 @@
 
 Reference data de tickers US, regenerada automáticamente cada día.
 
-Datasets derivados de la data de referencia de [Polygon.io](https://polygon.io) y de
-las APIs públicas de los exchanges, más correcciones propias (splits que el vendor
-perdió, resolución de renames por CIK, reconciliación entre fuentes de halts):
+Datasets construidos a partir de avisos públicos de los exchanges y de registros
+regulatorios, más correcciones propias (splits que las fuentes perdieron, resolución
+de renames por CIK, reconciliación entre fuentes de halts):
 
 | Archivo | Qué es | Tamaño |
 |---|---|---|
@@ -122,7 +122,7 @@ BKSY.WS,BKSY WS,2026-08-07,16:05:26.515,515,H11,Regulatory Concern,BlackSky…,N
 
 | Columna | Descripción |
 |---|---|
-| `symbol` | símbolo canónico (convención Polygon: la clase con punto, `BKSY.WS`) |
+| `symbol` | símbolo canónico (clase separada con punto: `BKSY.WS`) |
 | `symbol_raw` | como lo mandó la fuente que ganó, para auditar |
 | `halt_date` / `halt_time` | inicio del halt, hora de **Nueva York**; los ms sólo si Nasdaq lo vio |
 | `reason_code` | canónico: `LUDP` (LULD), `T1`/`T2` (noticias), `T12`, `H10` (suspensión SEC), `UNKNOWN` |
@@ -176,6 +176,7 @@ mtime del archivo.
 
 ## Fuente
 
-Derivado de la data de referencia de Polygon.io. Se publica como conveniencia
-para consumo propio y sin garantías de exactitud, completitud ni disponibilidad.
-Verificá contra la fuente antes de usarlo para cualquier decisión.
+Construido a partir de avisos públicos de los exchanges (NYSE, Nasdaq, Cboe) y de
+registros regulatorios, reconciliados entre sí. Se publica como conveniencia para
+consumo propio y sin garantías de exactitud, completitud ni disponibilidad.
+Verificá contra la fuente primaria antes de usarlo para cualquier decisión.
