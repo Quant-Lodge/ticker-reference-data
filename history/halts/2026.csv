@@ -1917,6 +1917,7 @@ SFHG,SFHG,2026-02-26,19:50:00,,T1,News pending,Samfine Creation Holdings Group L
 SOLT,SOLT,2026-02-26,19:50:00,,T1,News pending,2x Solana ETF,Nasdaq,2026-02-27,,09:00:00,,,,,,nyse,2026-08-07T22:29:29
 VCIG,VCIG,2026-02-26,19:50:00,,T1,News pending,VCI Global Limited Ordinary Share,Nasdaq,2026-02-27,,09:00:00,,,,,,nyse,2026-08-07T22:29:29
 XRPT,XRPT,2026-02-26,19:50:00,,T1,News pending,Volatility Shares Trust XRP 2X ETF,Nasdaq,2026-02-27,,09:00:00,,,,,,nyse,2026-08-07T22:29:29
+BCACU,BCACU,2026-02-27,04:00:00,,UNKNOWN,None,BROOKLINE CAP ACQUISITION UNITS,NASDAQ,,,,,,,,,cboe,2026-08-07T22:30:37
 CWII,CWII,2026-02-27,09:30:15,,LUDP,LULD pause,REX CRWV Growth & Income ETF,Cboe BZX,2026-02-27,,09:40:15,,,,,,nyse,2026-08-07T22:29:29
 DIBS,DIBS,2026-02-27,09:30:16,,LUDP,LULD pause,"1stdibs.com, Inc. Common Stock",Nasdaq,2026-02-27,,09:35:16,,,,,,nyse,2026-08-07T22:29:29
 THY,THY,2026-02-27,09:30:48,,LUDP,LULD pause,Toews Agility Shares Dynamic Tactical Income ETF,NYSE Arca,2026-02-27,,09:35:48,,,,,,nyse,2026-08-07T22:29:29
@@ -8440,6 +8441,9 @@ YXT,YXT,2026-08-05,15:50:55,,LUDP,LULD Pause,YXT.COM GROUP HOLDING LIMITED Ameri
 BYAH,BYAH,2026-08-05,19:50:00,,T1,News Pending,"Park Ha Biological Technology Co., Ltd. Ordinary Shares",Nasdaq,2026-08-06,,09:00:00,,,,,,nyse,2026-08-07T22:29:29
 GRNQ,GRNQ,2026-08-05,19:50:00,,T1,News Pending,Greenpro Capital Corp. Common Stock,Nasdaq,2026-08-06,,09:00:00,,,,,,nyse,2026-08-07T22:29:29
 SUGP,SUGP,2026-08-05,19:50:00,,T1,News Pending,SU Group Holdings Limited Class A Ordinary Shares,Nasdaq,2026-08-06,,09:00:00,,,,,,nyse,2026-08-07T22:29:29
+OCLTU,OCLTU,2026-08-06,03:58:00,,UNKNOWN,None,OCEANLIGHT ACQUISITION CORP UNIT EXP 070931,NASDAQ,2026-08-07,10:35:00,10:47:22,110962,,,,,cboe,2026-08-07T22:30:37
+PHAXU,PHAXU,2026-08-06,03:58:00,,UNKNOWN,None,PHALANX ACQUISITION CORP I UNIT EXP 080431,NASDAQ,2026-08-07,,04:02:37,86677,,,,,cboe,2026-08-07T22:30:37
+QVC,QVC,2026-08-06,03:58:00,,UNKNOWN,None,QVC GROUP INC COMMON STOCK,NASDAQ,2026-08-07,08:55:00,09:00:00,104520,,,,,cboe,2026-08-07T22:30:37
 VISN,VISN,2026-08-06,06:55:00,,T1,News Pending,"Vistance Networks, Inc. Common Stock",Nasdaq,2026-08-06,,07:30:00,,,,,,nyse,2026-08-07T22:29:29
 WDCC,WDCC,2026-08-06,09:30:15,,LUDP,LULD Pause,Corgi WDC 2x Daily ETF,Cboe BZX,2026-08-06,,09:35:15,,,,,,nyse,2026-08-07T22:29:29
 TJGC,TJGC,2026-08-06,09:30:17,,LUDP,LULD Pause,TJGC Group Limited Ordinary Shares,Nasdaq,2026-08-06,,09:35:17,,,,,,nyse,2026-08-07T22:29:29
@@ -8531,5 +8535,113 @@ XHLD,XHLD,2026-08-06,15:29:54,,LUDP,LULD Pause,"TEN Holdings, Inc. Common Stock"
 WYHG,WYHG,2026-08-06,15:31:59,,LUDP,LULD Pause,Wing Yip Food Holdings Group Limited American Depositary Shares,Nasdaq,2026-08-06,,15:36:59,,,,,,nyse,2026-08-07T22:29:29
 WYHG,WYHG,2026-08-06,15:40:37,,LUDP,LULD Pause,Wing Yip Food Holdings Group Limited American Depositary Shares,Nasdaq,2026-08-06,,15:45:37,,,,,,nyse,2026-08-07T22:29:29
 FVN,FVN,2026-08-06,15:55:53,,LUDP,LULD Pause,Future Vision II Acquisition Corporation Ordinary shares,Nasdaq,2026-08-06,,16:00:00,,,,,,nyse,2026-08-07T22:29:29
-IPW,IPW,2026-08-06,19:50:00,,T1,News Pending,"iPower, Inc. Common Stock",Nasdaq,,,,,,,,,nyse,2026-08-07T22:29:29
-JUNS,JUNS,2026-08-06,19:50:00,,T1,News Pending,"Jupiter Neurosciences, Inc. Common Stock",Nasdaq,,,,,,,,,nyse,2026-08-07T22:29:29
+IPW,IPW,2026-08-06,19:50:00,,T1,News Pending,"iPower, Inc. Common Stock",Nasdaq,2026-08-07,08:55:00,09:00:00,47400,,,,,nyse,2026-08-07T22:29:29
+JUNS,JUNS,2026-08-06,19:50:00,,T1,News Pending,"Jupiter Neurosciences, Inc. Common Stock",Nasdaq,2026-08-07,08:55:00,09:00:00,47400,,,,,nyse,2026-08-07T22:29:29
+APNAU,APNAU,2026-08-07,03:58:00,,UNKNOWN,None,APEIRON ACQUISITION VEH I UNITS,NASDAQ,2026-08-07,,04:02:32,272,,,,,cboe,2026-08-07T22:30:37
+IDIAU,IDIAU,2026-08-07,03:58:00,,UNKNOWN,None,INNOVATIVE DIGITAL INVESTORS ACQUISITION CORP,NASDAQ,2026-08-07,,04:02:35,275,,,,,cboe,2026-08-07T22:30:37
+SKAIU,SKAIU,2026-08-07,03:58:00,,UNKNOWN,None,SKY ACQUISITION GROUP UNIT UNIT EXP 030431,NASDAQ,2026-08-07,,04:02:39,279,,,,,cboe,2026-08-07T22:30:37
+BLSM,BLSM,2026-08-07,04:00:00,,UNKNOWN,None,BLOSSOMHILL THERAPEUTICS INC COM,NASDAQ,2026-08-07,10:10:00,12:33:08,30788,,,,,cboe,2026-08-07T22:30:37
+LTGO,LTGO,2026-08-07,04:00:00,,UNKNOWN,None,LATIGO BIOTHERAPEUTICS INC COM,NASDAQ,2026-08-07,09:50:00,11:41:21,27681,,,,,cboe,2026-08-07T22:30:37
+QVC,QVC,2026-08-07,09:23:54.056,56,T1,T1,"QVC Group, Inc. Common Stock",NASDAQ,,,,,,,,,cboe|nasdaq_rss,2026-08-07T22:30:37
+BCARU,BCARU,2026-08-07,09:30:17.536,536,LUDP,LULD Pause,D. BORAL ARC ACQ I CORP. UNITS EXP 072330,Nasdaq,2026-08-07,09:30:17,09:35:17,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+LASC,LASC,2026-08-07,09:30:47.583,583,LUDP,LULD Pause,Corgi LASR 2x Daily ETF,Cboe BZX,2026-08-07,09:35:47,09:35:47,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ONTX,ONTX,2026-08-07,09:30:56.790,790,LUDP,LULD Pause,Corgi ONTO 2x Daily ETF,Cboe BZX,2026-08-07,09:35:56,09:35:56,300,,19.75,20.1,1.7722,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,09:31:37.626,626,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,09:31:37,09:36:37,300,,12.18,12.59,3.3662,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+DOCS,DOCS,2026-08-07,09:33:18.896,896,LUDP,LULD Pause,"Doximity, Inc. Class A Common Stock",NYSE,2026-08-07,09:38:23,09:38:23,305,,37.15,36.8,-0.9421,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+AXTC,AXTC,2026-08-07,09:34:22.926,926,LUDP,LULD Pause,Corgi AXTI 2x Daily ETF,Cboe BZX,2026-08-07,09:39:22,09:39:22,300,,29.0,31.63,9.069,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+PN,PN,2026-08-07,09:35:21.530,530,LUDP,LULD Pause,PN Smart Energy Limited Class A Ordinary Shares,Nasdaq,2026-08-07,09:35:21,09:40:21,300,,2.72,2.85,4.7794,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+AMEM,AMEM,2026-08-07,09:35:25.410,410,LUDP,LULD Pause,AMANA MUT FDS TR DEVELOPING WORLD,Nasdaq,2026-08-07,09:35:25,10:20:25,2700,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+BCARU,BCARU,2026-08-07,09:35:32.540,540,LUDP,LULD Pause,D. BORAL ARC ACQ I CORP. UNITS EXP 072330,Nasdaq,2026-08-07,09:35:32,09:40:32,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+CHEC,CHEC,2026-08-07,09:35:39.706,706,LUDP,LULD Pause,Chenghe Acquisition III Co. Class A Ordinary Share,Nasdaq,2026-08-07,09:35:39,09:40:39,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+UUUC,UUUC,2026-08-07,09:36:02.580,580,LUDP,LULD Pause,Corgi UUUU 2x Daily ETF,Cboe BZX,2026-08-07,09:41:02,09:41:02,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+LASC,LASC,2026-08-07,09:36:35.196,196,LUDP,LULD Pause,Corgi LASR 2x Daily ETF,Cboe BZX,2026-08-07,09:41:35,09:41:35,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,09:37:10.130,130,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,09:37:10,09:42:10,300,,13.85,14.5,4.6931,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+OAEM,OAEM,2026-08-07,09:40:30.440,440,LUDP,LULD Pause,OneAscent Emerging Markets ETF,NYSE Arca,2026-08-07,09:45:30,09:45:30,300,,42.65,47.32,10.9496,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+LASC,LASC,2026-08-07,09:41:53.376,376,LUDP,LULD Pause,Corgi LASR 2x Daily ETF,Cboe BZX,2026-08-07,09:46:53,09:46:53,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,09:42:28.726,726,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,09:42:28,09:52:29,601,,15.95,17.95,12.5392,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+DOCS,DOCS,2026-08-07,09:43:12.540,540,LUDP,LULD Pause,"Doximity, Inc. Class A Common Stock",NYSE,2026-08-07,09:48:23,09:48:23,311,,33.25,33.24,-0.0301,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+GRNQ,GRNQ,2026-08-07,09:46:14.730,730,LUDP,LULD Pause,Greenpro Capital Corp. Common Stock,Nasdaq,2026-08-07,09:46:14,09:51:14,300,,11.2,10.83,-3.3036,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,09:52:44.883,883,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,09:52:44,10:02:45,601,,19.75,15.11,-23.4937,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,09:55:06.906,906,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,09:55:06,10:00:06,300,,2.09,2.1,0.4785,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ZYBT,ZYBT,2026-08-07,09:55:38.886,886,LUDP,LULD Pause,Zhengye Biotechnology Holding Limited Class A Ordinary Shares,Nasdaq,2026-08-07,09:55:38,10:00:38,300,,2.5,2.5,0.0,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,10:00:25.953,953,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,10:00:25,10:21:10,1245,,2.52,3.27,29.7619,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,10:03:51.233,233,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,10:03:51,10:08:51,300,,13.82,14.24,3.0391,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+CARX,CARX,2026-08-07,10:10:09.406,406,LUDP,LULD Pause,Corgi CART 2x Daily ETF,Cboe BZX,2026-08-07,10:15:09,10:15:09,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,10:12:58.013,13,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,10:12:58,10:17:58,300,,12.35,12.87,4.2105,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,10:21:57.710,710,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,10:21:57,10:26:57,300,,3.96,3.97,0.2525,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,10:24:44.300,300,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,10:24:44,10:29:44,300,,11.8,12.0,1.6949,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,10:27:21.463,463,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,10:27:21,10:32:21,300,,3.18,3.32,4.4025,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,10:32:49.783,783,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,10:32:49,10:57:50,1501,,3.98,5.0,25.6281,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,10:37:52.386,386,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,10:37:52,10:52:52,900,,7.59,9.84,29.6443,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,10:41:32.790,790,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,10:41:32,10:46:32,300,,13.35,13.88,3.97,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+BTG,BTG,2026-08-07,10:45:17.471,471,T1,News Pending,B2GOLD CORP COM,NYSE American,2026-08-07,11:25:00,11:25:00,2383,,4.685,4.68,-0.1067,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,10:47:05.950,950,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,10:47:05,10:52:05,300,,15.27,15.27,0.0,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,10:59:46.323,323,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,10:59:46,11:04:46,300,,6.37,5.64,-11.46,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,11:01:27.150,150,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,11:01:27,11:21:27,1200,,11.86,14.28,20.4047,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,11:06:21.320,320,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,11:06:21,11:11:21,300,,6.36,6.57,3.3019,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,11:21:44.956,956,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,11:21:44,11:33:17,693,,15.71,18.04,14.8313,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+OKLC,OKLC,2026-08-07,11:23:48.636,636,LUDP,LULD Pause,Corgi OKLO 2x Daily ETF,Cboe BZX,2026-08-07,11:28:48,11:28:48,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,11:33:35.936,936,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,11:33:35,11:48:54,919,,19.84,23.8,19.9597,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+JG,JG,2026-08-07,11:39:44.413,413,LUDP,LULD Pause,Aurora Mobile Limited American Depositary Shares,Nasdaq,2026-08-07,11:39:44,11:49:44,600,,4.2872,5.25,22.4575,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,11:42:03.566,566,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,11:42:03,11:47:03,300,,7.63,8.08,5.8978,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,11:43:09.763,763,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,11:43:09,11:58:31,922,,10.95,13.15,20.0913,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,11:47:46.710,710,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,11:47:46,11:52:46,300,,8.89,9.3,4.6119,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,11:49:28.126,126,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,11:49:28,11:54:28,300,,26.18,26.97,3.0176,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,11:54:45.376,376,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,11:54:45,12:06:48,723,,24.27,21.01,-13.4322,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,11:57:41.340,340,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,11:57:41,12:02:41,300,,7.75,8.1,4.5161,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,11:59:34.250,250,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,11:59:34,12:04:34,300,,10.41,11.0,5.6676,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+VSA,VSA,2026-08-07,12:00:45.016,16,LUDP,LULD Pause,VisionSys AI Inc American Depositary Shares,Nasdaq,2026-08-07,12:00:45,12:25:49,1504,,3.76,4.8,27.6596,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,12:05:07.330,330,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,12:05:07,12:15:07,600,,8.8,8.53,-3.0682,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,12:06:52.660,660,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,12:06:52,12:16:52,600,,8.6,9.1,5.814,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,12:07:36.076,76,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,12:07:36,12:12:36,300,,22.1,19.01,-13.9819,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,12:15:31.040,40,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,12:15:31,12:25:33,602,,6.82,5.8,-14.956,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,12:20:22.016,16,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,12:20:22,12:25:22,300,,9.81,9.32,-4.9949,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+QNME,QNME,2026-08-07,12:22:51.230,230,LUDP,LULD Pause,"Quanome Technologies, Inc. Common Stock",Nasdaq,2026-08-07,12:22:51,12:27:51,300,,0.74,0.72,-2.7027,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,12:25:03.590,590,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,12:25:03,12:30:03,300,,19.29,17.8,-7.7242,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+VSA,VSA,2026-08-07,12:27:01.880,880,LUDP,LULD Pause,VisionSys AI Inc American Depositary Shares,Nasdaq,2026-08-07,12:27:01,12:37:02,601,,5.28,6.0,13.6364,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,12:32:44.853,853,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,12:32:44,12:42:44,600,,15.69,14.51,-7.5207,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+VSA,VSA,2026-08-07,12:37:33.073,73,LUDP,LULD Pause,VisionSys AI Inc American Depositary Shares,Nasdaq,2026-08-07,12:37:33,12:47:33,600,,6.6,7.58,14.8485,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,12:44:37.876,876,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,12:44:37,12:49:37,300,,13.28,13.28,0.0,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+HUIZ,HUIZ,2026-08-07,12:47:35.693,693,LUDP,LULD Pause,Huize Holding Limited American Depositary Shares,Nasdaq,2026-08-07,12:47:35,13:02:23,888,,1.96,2.4,22.449,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+VSA,VSA,2026-08-07,12:48:11.993,993,LUDP,LULD Pause,VisionSys AI Inc American Depositary Shares,Nasdaq,2026-08-07,12:48:11,12:53:11,300,,6.82,6.59,-3.3724,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+VSA,VSA,2026-08-07,12:53:33.973,973,LUDP,LULD Pause,VisionSys AI Inc American Depositary Shares,Nasdaq,2026-08-07,12:53:33,13:04:19,646,,5.93,5.05,-14.8398,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+CGTL,CGTL,2026-08-07,12:57:18.046,46,LUDP,LULD Pause,Creative Global Technology Holdings Limited Class A Ordinary Shares,Nasdaq,2026-08-07,12:57:18,13:02:18,300,,6.38,6.25,-2.0376,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+CGTL,CGTL,2026-08-07,13:02:34.753,753,LUDP,LULD Pause,Creative Global Technology Holdings Limited Class A Ordinary Shares,Nasdaq,2026-08-07,13:02:34,13:22:35,1201,,5.63,4.31,-23.4458,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+HUIZ,HUIZ,2026-08-07,13:02:57.016,16,LUDP,LULD Pause,Huize Holding Limited American Depositary Shares,Nasdaq,2026-08-07,13:02:57,13:07:57,300,,2.88,2.86,-0.6944,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+VSA,VSA,2026-08-07,13:04:40.540,540,LUDP,LULD Pause,VisionSys AI Inc American Depositary Shares,Nasdaq,2026-08-07,13:04:40,13:14:41,601,,4.55,3.95,-13.1868,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+ATGL,ATGL,2026-08-07,13:08:00.260,260,LUDP,LULD Pause,Alpha Technology Group Limited Class A Ordinary Shares,Nasdaq,2026-08-07,13:08:00,13:13:00,300,,10.87,11.12,2.2999,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+HUIZ,HUIZ,2026-08-07,13:08:13.733,733,LUDP,LULD Pause,Huize Holding Limited American Depositary Shares,Nasdaq,2026-08-07,13:08:13,13:18:13,600,,2.29,2.15,-6.1135,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,13:13:27.133,133,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,13:13:27,13:23:27,600,,3.32,3.6,8.4337,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WAFU,WAFU,2026-08-07,13:18:26.846,846,LUDP,LULD Pause,Wah Fu Education Group Limited Ordinary Shares,Nasdaq,2026-08-07,13:18:26,13:28:26,600,,2.69,2.9,7.8067,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+VSA,VSA,2026-08-07,13:18:30.680,680,LUDP,LULD Pause,VisionSys AI Inc American Depositary Shares,Nasdaq,2026-08-07,13:18:30,13:23:30,300,,3.61,3.5,-3.0471,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+HUIZ,HUIZ,2026-08-07,13:19:00.523,523,LUDP,LULD Pause,Huize Holding Limited American Depositary Shares,Nasdaq,2026-08-07,13:19:00,13:29:00,600,,2.67,2.92,9.3633,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,13:22:58.553,553,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,13:22:58,13:27:58,300,,3.71,3.59,-3.2345,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+CGTL,CGTL,2026-08-07,13:23:41.560,560,LUDP,LULD Pause,Creative Global Technology Holdings Limited Class A Ordinary Shares,Nasdaq,2026-08-07,13:23:41,13:28:41,300,,3.99,3.79,-5.0125,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WAFU,WAFU,2026-08-07,13:28:46.110,110,LUDP,LULD Pause,Wah Fu Education Group Limited Ordinary Shares,Nasdaq,2026-08-07,13:28:46,13:39:02,616,,2.32,1.9,-18.1034,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+HUIZ,HUIZ,2026-08-07,13:29:21.210,210,LUDP,LULD Pause,Huize Holding Limited American Depositary Shares,Nasdaq,2026-08-07,13:29:21,13:39:27,606,,2.34,1.9,-18.8034,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+YJ,YJ,2026-08-07,13:30:07.896,896,LUDP,LULD Pause,Yunji Inc. American Depository Shares,Nasdaq,2026-08-07,13:30:07,13:35:07,300,,4.9,4.75,-3.0612,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,13:33:23.833,833,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,13:33:23,13:38:23,300,,4.46,3.74,-16.1435,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+LXEH,LXEH,2026-08-07,13:41:21.546,546,LUDP,LULD Pause,"Lixiang Education Holding Co., Ltd. American Depositary Shares",Nasdaq,2026-08-07,13:41:21,13:46:21,300,,1.66,1.55,-6.6265,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,13:44:35.756,756,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,13:44:35,13:49:35,300,,3.4,3.43,0.8824,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+HUIZ,HUIZ,2026-08-07,13:51:48.270,270,LUDP,LULD Pause,Huize Holding Limited American Depositary Shares,Nasdaq,2026-08-07,13:51:48,13:56:48,300,,1.37,1.44,5.1095,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,13:52:47.306,306,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,13:52:47,14:03:08,621,,4.76,5.45,14.4958,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,14:04:36.236,236,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,14:04:36,14:09:36,300,,7.29,7.65,4.9383,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,14:10:08.143,143,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,14:10:08,14:15:08,300,,9.18,7.3,-20.4793,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+LZMH,LZMH,2026-08-07,14:14:25.903,903,LUDP,LULD Pause,LZ Technology Holdings Limited Class B Ordinary Shares,Nasdaq,2026-08-07,14:14:25,14:24:26,601,,1.73,2.17,25.4335,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,14:15:51.706,706,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,14:15:51,14:20:51,300,,8.76,8.0,-8.6758,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+LZMH,LZMH,2026-08-07,14:26:18.263,263,LUDP,LULD Pause,LZ Technology Holdings Limited Class B Ordinary Shares,Nasdaq,2026-08-07,14:26:18,14:31:18,300,,1.59,1.71,7.5472,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,14:30:00.786,786,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,14:30:00,14:35:00,300,,7.36,7.86,6.7935,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+CCHH,CCHH,2026-08-07,14:32:22.770,770,LUDP,LULD Pause,CCH Holdings Ltd Class A Ordinary Shares,Nasdaq,2026-08-07,14:32:22,14:37:22,300,,1.28,1.37,7.0312,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+LZMH,LZMH,2026-08-07,14:35:42.836,836,LUDP,LULD Pause,LZ Technology Holdings Limited Class B Ordinary Shares,Nasdaq,2026-08-07,14:35:42,14:40:42,300,,1.44,1.55,7.6389,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+HUIZ,HUIZ,2026-08-07,14:37:30.883,883,LUDP,LULD Pause,Huize Holding Limited American Depositary Shares,Nasdaq,2026-08-07,14:37:30,14:42:30,300,,2.29,2.11,-7.8603,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,14:42:58.310,310,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,14:42:58,14:47:58,300,,5.72,5.61,-1.9231,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MSC,MSC,2026-08-07,14:46:01.556,556,LUDP,LULD Pause,"Studio City International Holdings Limited American depositary shares, each representing four  Class A ordinary shares",NYSE,2026-08-07,14:51:42,14:51:42,341,,2.85,2.87,0.7018,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,14:52:54.033,33,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,14:52:54,15:02:55,601,,8.02,9.0,12.2195,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MSC,MSC,2026-08-07,14:58:38.880,880,LUDP,LULD Pause,"Studio City International Holdings Limited American depositary shares, each representing four  Class A ordinary shares",NYSE,2026-08-07,15:03:46,15:03:46,308,,2.04,2.08,1.9608,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WWR,WWR,2026-08-07,15:00:44.476,476,LUDP,LULD Pause,"Westwater Resources, Inc. - Common Stock",NYSE American,2026-08-07,15:05:44,15:05:44,300,,0.57,0.57,0.0,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,15:08:08.270,270,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,15:08:08,15:13:08,300,,5.96,6.31,5.8725,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+INHD,INHD,2026-08-07,15:16:17.290,290,LUDP,LULD Pause,Inno Holdings Inc. Common Stock,Nasdaq,2026-08-07,15:16:17,15:21:17,300,,7.18,7.0,-2.507,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+JXG,JXG,2026-08-07,15:28:40.090,90,LUDP,LULD Pause,JX Luxventure Limited Common Stock,Nasdaq,2026-08-07,15:28:40,15:38:41,601,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+WFF,WFF,2026-08-07,15:30:06.543,543,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,15:30:06,15:35:06,300,,2.54,2.64,3.937,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+MB,MB,2026-08-07,15:42:38.183,183,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,15:42:38,16:00:00,1042,,8.92,8.99,0.7848,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
+BKSY.WS,BKSY WS,2026-08-07,16:05:26.515,515,H11,Regulatory Concern,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one-eighth (1/8th) of a share of Class A Common Stock at an exercise",NYSE,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:30:35
