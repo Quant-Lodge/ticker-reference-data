@@ -1,49 +1,49 @@
 # ticker-reference-data
 
-Reference data de tickers US, regenerada automáticamente cada día.
+US ticker reference data, rebuilt automatically every day.
 
-Datasets construidos a partir de avisos públicos de los exchanges y de registros
-regulatorios, más correcciones propias (splits que las fuentes perdieron, resolución
-de renames por CIK, reconciliación entre fuentes de halts):
+Datasets built from public exchange notices and regulatory filings, plus our own
+corrections (splits the sources missed, ticker renames resolved by CIK, halt
+reconciliation across feeds):
 
-| Archivo | Qué es | Tamaño |
+| File | What it is | Size |
 |---|---|---|
-| [`data/fresh_universe.csv`](data/fresh_universe.csv) | tickers "frescos": IPO o reverse split en los últimos 365 días | ~95 KB |
-| [`data/ticker_changes.json`](data/ticker_changes.json) | renames de ticker resueltos por CIK | ~1.1 MB |
-| [`history/halts/`](history/halts) | trading halts, un CSV por año, 2019→hoy | ~9.8 MB |
+| [`data/fresh_universe.csv`](data/fresh_universe.csv) | "fresh" tickers: IPO or reverse split within the last 365 days | ~95 KB |
+| [`data/ticker_changes.json`](data/ticker_changes.json) | ticker renames resolved by CIK | ~1.1 MB |
+| [`history/halts/`](history/halts) | trading halts, one CSV per year, 2019→today | ~9.8 MB |
 
-Los de `data/` son un **snapshot** que se reescribe cada día; los de `history/` son una
-**serie acumulativa** que sólo crece.
+Files under `data/` are a **snapshot** rewritten daily; those under `history/` are a
+**cumulative series** that only grows.
 
-## Consumo
+## Consuming it
 
-Cada día se publica un **release tageado con el `as_of`** del snapshot. Los assets
-de un tag son inmutables, así que la URL identifica el contenido sin ambigüedad:
+Every day a **release tagged with the snapshot's `as_of`** is published. Assets on a
+tag are immutable, so the URL identifies the content unambiguously:
 
 ```bash
-# El snapshot de una fecha concreta. 200 = es ese día, garantizado. 404 = todavía
-# no se publicó (y tu proceso sabe que tiene que seguir con su copia anterior).
+# A specific date's snapshot. 200 = that exact day, guaranteed. 404 = not published
+# yet (and your job knows to keep using its previous copy).
 curl -sSfL https://github.com/Quant-Lodge/ticker-reference-data/releases/download/2026-07-24/fresh_universe.csv -o fresh_universe.csv
 
-# El último publicado, sea cual sea.
+# Whatever was published last.
 curl -sSfL https://github.com/Quant-Lodge/ticker-reference-data/releases/latest/download/fresh_universe.csv -o fresh_universe.csv
 ```
 
-Los halts tienen su propio espacio de tags, `halts-YYYY-MM-DD`, porque los dos
-pipelines corren a horas distintas y cada dataset deriva su tag de su propio dato:
+Halts live in their own tag namespace, `halts-YYYY-MM-DD`, because the two pipelines
+run at different hours and each dataset derives its tag from its own data:
 
 ```bash
 curl -sSfL https://github.com/Quant-Lodge/ticker-reference-data/releases/download/halts-2026-08-07/halts_2026.csv -o halts_2026.csv
 ```
 
-Ese release **no** se marca como `latest`: ese puntero es de `fresh_universe.csv`, que
-es lo que consumen los bots. Para halts usá el tag con fecha.
+That release is **not** marked as `latest`: that pointer belongs to
+`fresh_universe.csv`, which is what the bots consume. For halts, use the dated tag.
 
-**Preferí los releases para consumo automatizado.** También están los archivos en
-`data/`, pero se sirven por `raw.githubusercontent.com`, que apunta a una rama
-mutable y por eso cachea (`max-age=300`): justo después de un push podés recibir
-la versión anterior. Medido sirviendo contenido de 218 s atrás. Para leerlos a
-ojo desde el navegador da igual; para un proceso que necesita el dato del día, no.
+**Prefer releases for automated consumption.** The files under `data/` are also there,
+but they are served from `raw.githubusercontent.com`, which points at a mutable branch
+and therefore caches (`max-age=300`): right after a push you can get the previous
+version. Measured serving content 218 s old. Fine for eyeballing in a browser; not
+fine for a job that needs today's data.
 
 ```
 https://raw.githubusercontent.com/Quant-Lodge/ticker-reference-data/main/data/fresh_universe.csv
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/Quant-Lodge/ticker-reference-data/main/data/ti
 
 ## `fresh_universe.csv`
 
-Un ticker califica como fresco si `rs_days ≤ 365` **o** `ipo_days_eff ≤ 365`.
+A ticker qualifies as fresh if `rs_days ≤ 365` **or** `ipo_days_eff ≤ 365`.
 
 ```csv
 ticker,rs_days,ipo_days_eff,fresh_via,as_of_date
@@ -61,29 +61,29 @@ AAHYX,228,,rs,2026-07-24
 ABTC,18,324,both,2026-07-24
 ```
 
-| Columna | Tipo | Descripción |
+| Column | Type | Description |
 |---|---|---|
-| `ticker` | string | símbolo |
-| `rs_days` | int \| vacío | días desde el reverse split más reciente; vacío si no tuvo |
-| `ipo_days_eff` | int \| vacío | días desde el IPO efectivo; vacío si no se pudo determinar |
-| `fresh_via` | `ipo` \| `rs` \| `both` | qué condición lo califica |
-| `as_of_date` | `YYYY-MM-DD` | fecha del snapshot, idéntica en todas las filas |
+| `ticker` | string | symbol |
+| `rs_days` | int \| empty | days since the most recent reverse split; empty if none |
+| `ipo_days_eff` | int \| empty | days since the effective IPO; empty if it couldn't be determined |
+| `fresh_via` | `ipo` \| `rs` \| `both` | which condition qualifies it |
+| `as_of_date` | `YYYY-MM-DD` | snapshot date, identical on every row |
 
-Una columna puede exceder los 365 días si la **otra** es la que califica: `ABTC`
-entra por su reverse split de hace 18 días aunque su IPO sea de hace 324.
+One column may exceed 365 days when the **other** one is what qualifies: `ABTC` gets in
+on its 18-day-old reverse split even though its IPO was 324 days ago.
 
-Corte típico: ~3,800 tickers (~2,700 por IPO, ~1,000 por reverse split, ~110 por ambos).
+Typical cut: ~3,800 tickers (~2,700 by IPO, ~1,000 by reverse split, ~110 by both).
 
-**El universo no está filtrado por precio, volumen ni tradeabilidad** — incluye
-OTC, fondos y units. Filtrá según tu caso de uso.
+**The universe is not filtered by price, volume or tradability** — it includes OTC,
+funds and units. Filter for your own use case.
 
-`ipo_days_eff` es *efectivo*, no la fecha de listado literal: incorpora el inicio
-del bloque de trading continuo, de modo que un ticker reciclado tras un delisting
-no aparece con la antigüedad del emisor anterior.
+`ipo_days_eff` is *effective*, not the literal listing date: it accounts for the start
+of continuous trading, so a ticker recycled after a delisting doesn't show up carrying
+the age of the previous issuer.
 
 ## `ticker_changes.json`
 
-Mapa `ticker` → resolución del rename, con el CIK de SEC como identidad estable.
+A `ticker` → rename resolution map, using the SEC CIK as stable identity.
 
 ```json
 {
@@ -92,46 +92,49 @@ Mapa `ticker` → resolución del rename, con el CIK de SEC como identidad estab
 }
 ```
 
-| Campo | Descripción |
+| Field | Description |
 |---|---|
-| `cik` | CIK de SEC (string con ceros a la izquierda); `null` si no se resolvió |
-| `old_ticker` | símbolo anterior; `null` o ausente si no hubo rename |
-| `flat_file_only` | `true` = el símbolo aparece en los flat files pero no se resolvió su identidad |
+| `cik` | SEC CIK (zero-padded string); `null` if unresolved |
+| `old_ticker` | previous symbol; `null` or absent if there was no rename |
+| `flat_file_only` | `true` = the symbol shows up in the flat files but its identity wasn't resolved |
 
-Es un **cache de lookups**: registra también los resultados negativos para no
-repetir la consulta. De ~15,300 entradas, ~1,150 tienen un rename utilizable; el
-resto son consultas sin resultado. Una entrada puede ser `null` (se consultó, sin
-respuesta). Al consumirlo, quedate con las que tienen `old_ticker` no vacío.
+It is a **lookup cache**: it also records negative results so the query isn't repeated.
+Of ~15,300 entries, ~1,150 carry a usable rename; the rest are lookups that came back
+empty. An entry can be `null` (queried, no answer). When consuming it, keep the ones
+with a non-empty `old_ticker`.
 
-Caso de uso típico: el día 1 tras un rename, el cierre previo vive bajo el símbolo
-viejo.
+Typical use case: on day 1 after a rename, the previous close lives under the old symbol.
 
 ## `history/halts/`
 
-Trading halts de US equities, un CSV por año. **69,256 eventos**, 2019→hoy.
+US equity trading halts, one CSV per year. **69,256 events**, 2019→today.
 
-Un halt no lo publica el exchange: se disemina por el SIP como mensaje administrativo,
-y cada venue recibe los de todas las tapes. Por eso NYSE, Nasdaq y Cboe traen las tres
-el universo completo, y acá van **reconciliadas**: un evento es una fila, y la columna
-`fuentes` dice cuáles lo vieron.
+A halt isn't published by the exchange: it is disseminated over the SIP as an
+administrative message, and every venue receives the ones from all tapes. That's why
+NYSE, Nasdaq and Cboe each carry the full universe, and here they are **reconciled**:
+one event is one row, and the `fuentes` column says which ones saw it.
 
 ```csv
 symbol,symbol_raw,halt_date,halt_time,halt_ms,reason_code,reason_raw,name,listing_market,resume_date,resume_quote_time,resume_trade_time,duracion_seg,pause_threshold_px,px_antes,px_resume,gap_pct,fuentes,ingested_at
 BKSY.WS,BKSY WS,2026-08-07,16:05:26.515,515,H11,Regulatory Concern,BlackSky…,NYSE,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:29:11
 ```
 
-| Columna | Descripción |
+| Column | Description |
 |---|---|
-| `symbol` | símbolo canónico (clase separada con punto: `BKSY.WS`) |
-| `symbol_raw` | como lo mandó la fuente que ganó, para auditar |
-| `halt_date` / `halt_time` | inicio del halt, hora de **Nueva York**; los ms sólo si Nasdaq lo vio |
-| `reason_code` | canónico: `LUDP` (LULD), `T1`/`T2` (noticias), `T12`, `H10` (suspensión SEC), `UNKNOWN` |
-| `resume_quote_time` | inicio del período quote-only — **es donde se forma el precio de reapertura** |
-| `resume_trade_time` | reanudación efectiva; **vacío = nunca reanudó**, no se imputa el cierre |
-| `px_antes` / `px_resume` / `gap_pct` | precio antes y después, y cuánto se movió mientras no se podía operar |
-| `fuentes` | qué feeds vieron el evento, separados por `|` |
+| `symbol` | canonical symbol (share class separated by a dot: `BKSY.WS`) |
+| `symbol_raw` | as sent by the winning source, for auditing |
+| `halt_date` / `halt_time` | halt start, **New York** time; milliseconds only when Nasdaq saw it |
+| `reason_code` | canonical: `LUDP` (LULD), `T1`/`T2` (news), `T12`, `H10` (SEC suspension), `UNKNOWN` |
+| `resume_quote_time` | start of the quote-only period — **this is where the reopening price forms** |
+| `resume_trade_time` | actual resumption; **empty = never resumed**, the close is not imputed |
+| `duracion_seg` | halt duration in seconds |
+| `px_antes` / `px_resume` / `gap_pct` | price before and after, and how far it moved while untradable |
+| `fuentes` | which feeds saw the event, `\|`-separated |
 
-| Archivo | Eventos |
+> Column names are kept in Spanish where they already ship that way — renaming them
+> would break every consumer downstream.
+
+| File | Events |
 |---|---|
 | `2019.csv` | 1,212 |
 | `2020.csv` | 14,895 |
@@ -142,41 +145,39 @@ BKSY.WS,BKSY WS,2026-08-07,16:05:26.515,515,H11,Regulatory Concern,BlackSky…,N
 | `2025.csv` | 12,370 |
 | `2026.csv` | 8,646 |
 
-**Un papel puede tener muchos halts el mismo día** — el máximo medido en la serie es 60.
-La identidad de un evento es `(symbol, halt_date, halt_time)` al segundo; deduplicar por
-`(symbol, date)` borraría 59 de esos 60, justo los días parabólicos.
+**One name can be halted many times in a single day** — the max measured in the series
+is 60. Event identity is `(symbol, halt_date, halt_time)` to the second; deduplicating
+by `(symbol, date)` would delete 59 of those 60, precisely on the parabolic days.
 
-**Un año viejo puede cambiar cualquier día.** Los feeds devuelven los halts que siguen
-ABIERTOS, y algunos llevan años (SVA lleva halteada desde 2023-06-13): cada fila se rutea
-al archivo de *su* año, no al de la fecha de corrida.
+**An old year can change any day.** The feeds return halts that are still OPEN, and some
+have been open for years (SVA has been halted since 2023-06-13): every row is routed to
+the file for *its* year, not the run date.
 
-Piso duro **2019-02-22**: es hasta donde llega el histórico de NYSE, la única fuente con
-backfill por rango. Y ojo con cruzar mayo de 2012 en cualquier estadística: antes no
-existía el LULD, así que serían regímenes distintos.
+Hard floor at **2019-02-22**: that's as far back as the NYSE history goes, the only
+source with range backfill. And be careful crossing May 2012 in any statistic: LULD
+didn't exist before that, so you'd be mixing regimes.
 
-`name` es el nombre **actual**, no el de la fecha del halt. Para papeles renombrados el
-símbolo tampoco es necesariamente el que se operaba ese día.
+`name` is the **current** name, not the one at halt time. For renamed securities the
+symbol isn't necessarily the one that traded that day either.
 
-## Actualización
+## Update schedule
 
-`data/` se regenera todos los días alrededor de las 02:15 ET.
-`fresh_universe.csv` se reescribe entero; `ticker_changes.json` crece de forma
-incremental.
+`data/` is rebuilt daily around 02:15 ET. `fresh_universe.csv` is rewritten in full;
+`ticker_changes.json` grows incrementally.
 
-`history/halts/` se actualiza de lunes a viernes a las **22:00 ET**, cuando el día ya
-cerró y las tres fuentes convergieron (los halts por noticias se publican hasta entrada
-la tarde y muchos reanudan al día siguiente).
+`history/halts/` is updated Monday to Friday at **22:00 ET**, once the day has closed
+and the three sources have converged (news halts are published well into the afternoon
+and many resume the following day).
 
-Los commits solo ocurren cuando algo cambió — la fecha del último commit es la del
-último cambio real, no la de la última corrida.
+Commits only happen when something actually changed — the last commit date is the date
+of the last real change, not of the last run.
 
-`as_of_date` es la fuente de verdad de la frescura del snapshot. Si tu proceso
-depende de tener el dato del día, validá esa columna en vez de confiar en el
-mtime del archivo.
+`as_of_date` is the source of truth for snapshot freshness. If your job depends on
+having today's data, validate that column instead of trusting the file mtime.
 
-## Fuente
+## Sources
 
-Construido a partir de avisos públicos de los exchanges (NYSE, Nasdaq, Cboe) y de
-registros regulatorios, reconciliados entre sí. Se publica como conveniencia para
-consumo propio y sin garantías de exactitud, completitud ni disponibilidad.
-Verificá contra la fuente primaria antes de usarlo para cualquier decisión.
+Built from public exchange notices (NYSE, Nasdaq, Cboe) and regulatory filings,
+reconciled against each other. Published as a convenience for our own consumption, with
+no guarantee of accuracy, completeness or availability. Verify against the primary
+source before using it for any decision.
