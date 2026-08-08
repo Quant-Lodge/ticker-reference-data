@@ -8542,7 +8542,7 @@ IDIAU,IDIAU,2026-08-07,03:58:00,,UNKNOWN,None,INNOVATIVE DIGITAL INVESTORS ACQUI
 SKAIU,SKAIU,2026-08-07,03:58:00,,UNKNOWN,None,SKY ACQUISITION GROUP UNIT UNIT EXP 030431,Nasdaq,2026-08-07,,04:02:39,279,,,,,cboe,2026-08-07T22:57:04
 BLSM,BLSM,2026-08-07,04:00:00,,UNKNOWN,None,BLOSSOMHILL THERAPEUTICS INC COM,Nasdaq,2026-08-07,10:10:00,12:33:08,30788,,,,,cboe,2026-08-07T22:57:04
 LTGO,LTGO,2026-08-07,04:00:00,,UNKNOWN,None,LATIGO BIOTHERAPEUTICS INC COM,Nasdaq,2026-08-07,09:50:00,11:41:21,27681,,,,,cboe,2026-08-07T22:57:04
-QVC,QVC,2026-08-07,09:23:54.056,56,T1,T1,"QVC Group, Inc. Common Stock",Nasdaq,,,,,,,,,cboe|nasdaq_rss,2026-08-07T22:57:04
+QVC,QVC,2026-08-07,09:23:54.056,56,T1,T1,"QVC Group, Inc. Common Stock",Nasdaq,2026-08-07,,22:06:15,45741,,,,,cboe|nasdaq_rss,2026-08-07T22:57:04
 BCARU,BCARU,2026-08-07,09:30:17.536,536,LUDP,LULD Pause,D. BORAL ARC ACQ I CORP. UNITS EXP 072330,Nasdaq,2026-08-07,09:30:17,09:35:17,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:57:04
 LASC,LASC,2026-08-07,09:30:47.583,583,LUDP,LULD Pause,Corgi LASR 2x Daily ETF,Cboe BZX,2026-08-07,09:35:47,09:35:47,300,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:57:04
 ONTX,ONTX,2026-08-07,09:30:56.790,790,LUDP,LULD Pause,Corgi ONTO 2x Daily ETF,Cboe BZX,2026-08-07,09:35:56,09:35:56,300,,19.75,20.1,1.7722,cboe|nasdaq_rss|nyse,2026-08-07T22:57:04
@@ -8645,3 +8645,12 @@ JXG,JXG,2026-08-07,15:28:40.090,90,LUDP,LULD Pause,JX Luxventure Limited Common 
 WFF,WFF,2026-08-07,15:30:06.543,543,LUDP,LULD Pause,WF Holding Limited Ordinary Shares,Nasdaq,2026-08-07,15:30:06,15:35:06,300,,2.54,2.64,3.937,cboe|nasdaq_rss|nyse,2026-08-07T22:57:04
 MB,MB,2026-08-07,15:42:38.183,183,LUDP,LULD Pause,MasterBeef Group Ordinary Shares,Nasdaq,2026-08-07,15:42:38,16:00:00,1042,,8.92,8.99,0.7848,cboe|nasdaq_rss|nyse,2026-08-07T22:57:04
 BKSY.WS,BKSY WS,2026-08-07,16:05:26.515,515,H11,Regulatory Concern,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one-eighth (1/8th) of a share of Class A Common Stock at an exercise",NYSE,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-07T22:57:04
+AEHL,AEHL,2026-08-07,19:50:00.000,0,T1,News Pending,Antelope Enterprise Holdings Limited Class A Ordinary Shares,Nasdaq,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-08T03:18:53
+ELPW,ELPW,2026-08-07,19:50:00.000,0,T1,News Pending,Elong Power Holding Limited Class A Ordinary Shares,Nasdaq,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-08T03:18:53
+NXTT,NXTT,2026-08-07,19:50:00.000,0,T1,News Pending,Next Technology Holding Inc. Ordinary Shares,Nasdaq,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-08T03:18:53
+ONFO,ONFO,2026-08-07,19:50:00.000,0,T1,News Pending,Onfolio Holdings Inc. Common Stock,Nasdaq,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-08T03:18:53
+ONFOW,ONFOW,2026-08-07,19:50:00.000,0,T1,News Pending,ONFOLIO HOLDINGS INC WT EXP 010227,Nasdaq,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-08T03:18:53
+SXTC,SXTC,2026-08-07,19:50:00.000,0,T1,News Pending,"China SXT Pharmaceuticals, Inc. Class A Ordinary Shares",Nasdaq,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-08T03:18:53
+THH,THH,2026-08-07,19:50:00.000,0,T1,News Pending,TryHard Holdings Limited Ordinary Shares,Nasdaq,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-08T03:18:53
+TNON,TNON,2026-08-07,19:50:00.000,0,T1,News Pending,"Tenon Medical, Inc. Common Stock",Nasdaq,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-08T03:18:53
+TNONW,TNONW,2026-08-07,19:50:00.000,0,T1,News Pending,TENON MEDICAL INC WT EXP 061628,Nasdaq,,,,,,,,,cboe|nasdaq_rss|nyse,2026-08-08T03:18:53
