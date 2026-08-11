@@ -181,3 +181,13 @@ Built from public exchange notices (NYSE, Nasdaq, Cboe) and regulatory filings,
 reconciled against each other. Published as a convenience for our own consumption, with
 no guarantee of accuracy, completeness or availability. Verify against the primary
 source before using it for any decision.
+
+---
+
+## Support this project
+
+This dataset is rebuilt daily and kept correct on my own time. If your backtests depend on it,
+[sponsoring](https://github.com/sponsors/jefrnc) is what keeps it maintained — the vendor splits,
+the CIK-resolved renames and the halt history don't stay accurate by themselves.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-jefrnc-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/jefrnc)
