@@ -5137,6 +5137,11 @@
     "cik": "0001467760",
     "old_ticker": null
   },
+  "ARIA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ARIS": {
     "cik": "0001964504",
     "old_ticker": "ARMN"
@@ -26197,6 +26202,11 @@
     "cik": "0000945908",
     "old_ticker": null
   },
+  "FFLX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FFN": {
     "cik": null,
     "flat_file_only": true,
@@ -29656,6 +29666,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "GCPB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GCSH": {
     "cik": null,
     "flat_file_only": true,
@@ -30651,6 +30666,11 @@
     "old_ticker": "GILw"
   },
   "GIM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "GINC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -54806,6 +54826,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "PARAW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PARD": null,
   "PARK": {
     "cik": "0002069604",
@@ -56154,6 +56179,16 @@
   },
   "PHOE": {
     "cik": "0002035709",
+    "old_ticker": null
+  },
+  "PHOS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "PHOX": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "PHT": {
@@ -59578,6 +59613,11 @@
     "old_ticker": null
   },
   "QUVU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "QVCG": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -74793,6 +74833,11 @@
     "old_ticker": null
   },
   "WLACW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WLCO": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
