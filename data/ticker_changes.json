@@ -210,6 +210,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "AAP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AAPB": {
     "cik": null,
     "flat_file_only": true,
@@ -730,6 +735,11 @@
     "cik": "0001415726",
     "old_ticker": null
   },
+  "ACEL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ACEL.WS": {
     "cik": null,
     "flat_file_only": true,
@@ -876,6 +886,11 @@
     "old_ticker": null
   },
   "ACII.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ACIU": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -1393,6 +1408,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ADPT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ADPV": {
     "cik": null,
     "flat_file_only": true,
@@ -1564,6 +1584,11 @@
   },
   "AEC": {
     "cik": "0001519469",
+    "old_ticker": null
+  },
+  "AEF": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "AEG": {
@@ -2111,6 +2136,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "AGIO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AGIQ": {
     "cik": null,
     "flat_file_only": true,
@@ -2181,6 +2211,11 @@
     "old_ticker": null
   },
   "AGNCL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "AGNCO": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -2690,6 +2725,11 @@
     "cik": "0001859199",
     "old_ticker": null
   },
+  "AIRG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AIRI": {
     "cik": "0001009891",
     "old_ticker": null
@@ -2756,6 +2796,11 @@
     "old_ticker": null
   },
   "AIU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "AIV": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -3152,6 +3197,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ALK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ALKS": {
     "cik": "0001520262",
     "old_ticker": "ALKSV"
@@ -3191,6 +3241,11 @@
   },
   "ALLR": {
     "cik": "0001860657",
+    "old_ticker": null
+  },
+  "ALLT": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "ALLW": {
@@ -3328,7 +3383,17 @@
     "old_ticker": null
   },
   "ALRG": null,
+  "ALRM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ALRN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ALRS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -3632,6 +3697,16 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "AMCR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "AMCX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AMD": {
     "cik": "0000002488",
     "old_ticker": null
@@ -3907,6 +3982,11 @@
     "cik": "0000880807",
     "old_ticker": null
   },
+  "AMSF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AMSS": {
     "cik": "0001851491",
     "old_ticker": null
@@ -3916,6 +3996,11 @@
     "old_ticker": null
   },
   "AMSWA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "AMTB": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -3953,6 +4038,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "AMTX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AMU": {
     "cik": null,
     "flat_file_only": true,
@@ -3968,6 +4058,11 @@
     "old_ticker": null
   },
   "AMV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "AMWD": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -4536,6 +4631,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "APLT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "APLU": {
     "cik": null,
     "flat_file_only": true,
@@ -4722,6 +4822,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "APT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "APTI": {
     "cik": null,
     "flat_file_only": true,
@@ -4834,6 +4939,11 @@
     "old_ticker": null
   },
   "APY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "APYX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -5062,6 +5172,11 @@
   },
   "ARDX": {
     "cik": "0001437402",
+    "old_ticker": null
+  },
+  "ARE": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "AREA": {
@@ -5324,6 +5439,11 @@
   "AROC": {
     "cik": "0001389050",
     "old_ticker": "EXH"
+  },
+  "AROW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "ARP": {
     "cik": null,
@@ -5694,6 +5814,16 @@
     "cik": "0001648403",
     "old_ticker": null
   },
+  "ASGN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ASH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ASHR": {
     "cik": "0001503123",
     "old_ticker": null
@@ -6042,6 +6172,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ATEC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ATEK": null,
   "ATEK.U": {
     "cik": null,
@@ -6087,6 +6222,11 @@
   "ATHE": {
     "cik": "0001131343",
     "old_ticker": "PRAN"
+  },
+  "ATHM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "ATHN": {
     "cik": null,
@@ -6197,6 +6337,11 @@
     "cik": "0001605888",
     "old_ticker": "SQL"
   },
+  "ATLO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ATLX": {
     "cik": "0001540684",
     "old_ticker": null
@@ -6265,6 +6410,11 @@
     "old_ticker": null
   },
   "ATNFW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ATNI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -6408,6 +6558,11 @@
   },
   "AU": {
     "cik": "0001973832",
+    "old_ticker": null
+  },
+  "AUB": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "AUBAP": {
@@ -6597,6 +6752,11 @@
     "old_ticker": null
   },
   "AV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "AVA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -6834,6 +6994,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "AVNS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AVNT": {
     "cik": "0001122976",
     "old_ticker": null
@@ -6924,6 +7089,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "AVTR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AVTX": {
     "cik": "0001534120",
     "old_ticker": "CERC"
@@ -6973,6 +7143,11 @@
   },
   "AWP": {
     "cik": "0001390195",
+    "old_ticker": null
+  },
+  "AWRE": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "AWSM": {
@@ -7289,7 +7464,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "BABU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BABW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "BABX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -7485,6 +7670,11 @@
     "cik": "0001914805",
     "old_ticker": null
   },
+  "BANX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BANXR": {
     "cik": null,
     "flat_file_only": true,
@@ -7548,6 +7738,11 @@
     "cik": "0002086017",
     "old_ticker": null
   },
+  "BAX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BAY": {
     "cik": null,
     "flat_file_only": true,
@@ -7580,6 +7775,11 @@
   },
   "BBAI.WS": {
     "cik": "0001836981",
+    "old_ticker": null
+  },
+  "BBAR": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "BBAX": {
@@ -7666,6 +7866,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "BBIO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BBJP": {
     "cik": "0001485894",
     "old_ticker": null
@@ -7711,6 +7916,11 @@
     "old_ticker": null
   },
   "BBQ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "BBSI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -7767,6 +7977,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "BBY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BBYY": {
     "cik": "0001689873",
     "old_ticker": null
@@ -7818,6 +8033,11 @@
   },
   "BCAX": {
     "cik": "0002023658",
+    "old_ticker": null
+  },
+  "BCBP": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "BCC": {
@@ -7926,6 +8146,11 @@
     "old_ticker": null
   },
   "BCM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "BCML": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -8044,6 +8269,11 @@
   },
   "BCX": {
     "cik": "0001506289",
+    "old_ticker": null
+  },
+  "BCYC": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "BCYP": {
@@ -8528,6 +8758,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "BFST": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BFT": {
     "cik": null,
     "flat_file_only": true,
@@ -8763,6 +8998,11 @@
   },
   "BHAVU": {
     "cik": "0002097288",
+    "old_ticker": null
+  },
+  "BHB": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "BHBK": {
@@ -9013,6 +9253,11 @@
     "cik": "0001723690",
     "old_ticker": null
   },
+  "BILL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BILS": {
     "cik": null,
     "flat_file_only": true,
@@ -9260,6 +9505,11 @@
     "cik": "0001704287",
     "old_ticker": null
   },
+  "BJRI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BKAG": {
     "cik": null,
     "flat_file_only": true,
@@ -9387,6 +9637,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "BKR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BKS": {
     "cik": null,
     "flat_file_only": true,
@@ -9444,6 +9699,11 @@
   },
   "BKYI": {
     "cik": "0001019034",
+    "old_ticker": null
+  },
+  "BL": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "BLAC": {
@@ -9578,6 +9838,11 @@
   },
   "BLIV": {
     "cik": "0001982448",
+    "old_ticker": null
+  },
+  "BLKB": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "BLKC": {
@@ -9781,6 +10046,11 @@
     "cik": "0002075310",
     "old_ticker": null
   },
+  "BMA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BMAC": {
     "cik": null,
     "flat_file_only": true,
@@ -9908,6 +10178,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "BMRC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BMRG": {
     "cik": null,
     "flat_file_only": true,
@@ -9919,6 +10194,11 @@
     "old_ticker": null
   },
   "BMRG.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "BMRN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -9939,6 +10219,11 @@
     "old_ticker": null
   },
   "BMTX.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "BMY": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -10582,6 +10867,11 @@
     "cik": "0002058601",
     "old_ticker": null
   },
+  "BRBR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "BRBRW": {
     "cik": null,
     "flat_file_only": true,
@@ -11128,6 +11418,11 @@
     "old_ticker": null
   },
   "BSEM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "BSET": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -12294,7 +12589,17 @@
     "cik": "0001717393",
     "old_ticker": null
   },
+  "CAAS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CABA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "CABO": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -12524,6 +12829,11 @@
   },
   "CAPE": {
     "cik": "0001886172",
+    "old_ticker": null
+  },
+  "CAPL": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CAPN": {
@@ -12897,6 +13207,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "CBRL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CBRS": {
     "cik": "0002021728",
     "old_ticker": null
@@ -13231,6 +13546,11 @@
     "cik": "0001009001",
     "old_ticker": null
   },
+  "CCL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CCLD": {
     "cik": "0001582982",
     "old_ticker": null
@@ -13275,6 +13595,11 @@
   },
   "CCO": {
     "cik": "0001334978",
+    "old_ticker": null
+  },
+  "CCOI": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CCOM": {
@@ -13590,6 +13915,11 @@
     "cik": "0000727273",
     "old_ticker": null
   },
+  "CE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CEA": {
     "cik": null,
     "flat_file_only": true,
@@ -13664,6 +13994,11 @@
     "old_ticker": null
   },
   "CELGR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "CELH": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -14202,6 +14537,11 @@
   },
   "CGNX": {
     "cik": "0000851205",
+    "old_ticker": null
+  },
+  "CGO": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CGON": {
@@ -15085,6 +15425,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "CLB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CLBH": {
     "cik": null,
     "flat_file_only": true,
@@ -15187,6 +15532,11 @@
   },
   "CLF": {
     "cik": "0000764065",
+    "old_ticker": null
+  },
+  "CLFD": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CLGN": {
@@ -15375,6 +15725,11 @@
   },
   "CLOX": null,
   "CLOZ": null,
+  "CLPR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CLPS": {
     "cik": "0001724542",
     "old_ticker": null
@@ -15602,6 +15957,11 @@
     "old_ticker": null
   },
   "CMCI": null,
+  "CMCL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CMCM": {
     "cik": "0001597835",
     "old_ticker": null
@@ -15647,6 +16007,11 @@
     "old_ticker": null
   },
   "CMFNL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "CMG": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -15824,6 +16189,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "CNA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CNACR": {
     "cik": null,
     "flat_file_only": true,
@@ -15974,6 +16344,11 @@
   },
   "CNM": {
     "cik": "0001856525",
+    "old_ticker": null
+  },
+  "CNMD": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CNNB": {
@@ -16772,6 +17147,11 @@
     "cik": "0001579881",
     "old_ticker": null
   },
+  "CPRI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CPRJ": {
     "cik": "0001579881",
     "old_ticker": null
@@ -16780,12 +17160,22 @@
     "cik": "0001579881",
     "old_ticker": null
   },
+  "CPRT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CPRX": {
     "cik": "0001369568",
     "old_ticker": null
   },
   "CPRY": {
     "cik": "0001579881",
+    "old_ticker": null
+  },
+  "CPS": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CPSA": {
@@ -16920,6 +17310,11 @@
   },
   "CPXR": {
     "cik": "0001722388",
+    "old_ticker": null
+  },
+  "CPZ": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CQP": {
@@ -17154,6 +17549,11 @@
     "old_ticker": null
   },
   "CRHC.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "CRI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -17460,6 +17860,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "CSGP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CSGS": {
     "cik": null,
     "flat_file_only": true,
@@ -17630,6 +18035,11 @@
     "old_ticker": null
   },
   "CSTK": null,
+  "CSTL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CSTM": {
     "cik": "0001563411",
     "old_ticker": null
@@ -17663,6 +18073,11 @@
     "old_ticker": null
   },
   "CSWCZ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "CSX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -17872,6 +18287,11 @@
     "cik": "0001951667",
     "old_ticker": null
   },
+  "CTO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CTOPA": {
     "cik": null,
     "flat_file_only": true,
@@ -17952,6 +18372,11 @@
   },
   "CTS": {
     "cik": "0000026058",
+    "old_ticker": null
+  },
+  "CTSH": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CTSO": {
@@ -18039,6 +18464,11 @@
     "old_ticker": null
   },
   "CUENW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "CUK": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -18296,6 +18726,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "CVV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CWAN": {
     "cik": "0001866368",
     "old_ticker": null
@@ -18305,6 +18740,11 @@
     "old_ticker": "CVCY"
   },
   "CWC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "CWCO": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -18336,6 +18776,11 @@
   },
   "CWST": {
     "cik": "0000911177",
+    "old_ticker": null
+  },
+  "CWT": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CWVX": null,
@@ -18472,6 +18917,11 @@
     "cik": "0001868419",
     "old_ticker": "WAVS"
   },
+  "CYD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CYH": {
     "cik": "0001108109",
     "old_ticker": "CYHw"
@@ -18555,6 +19005,11 @@
     "cik": "0000739421",
     "old_ticker": null
   },
+  "CZNC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CZOO": {
     "cik": null,
     "flat_file_only": true,
@@ -18616,6 +19071,11 @@
     "cik": "0002033770",
     "old_ticker": null
   },
+  "DAIO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "DAK": {
     "cik": null,
     "flat_file_only": true,
@@ -18623,6 +19083,11 @@
   },
   "DAKT": {
     "cik": "0000915779",
+    "old_ticker": null
+  },
+  "DAL": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "DALI": {
@@ -18709,6 +19174,11 @@
     "old_ticker": null
   },
   "DATSW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "DAVA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -18810,6 +19280,11 @@
     "old_ticker": null
   },
   "DBGIW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "DBI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -19032,6 +19507,11 @@
   "DCX": {
     "cik": "0001957413",
     "old_ticker": "CJET"
+  },
+  "DD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "DD.WD": {
     "cik": null,
@@ -19669,6 +20149,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "DGICA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "DGICB": {
     "cik": "0000800457",
     "old_ticker": null
@@ -19947,6 +20432,11 @@
     "old_ticker": null
   },
   "DIME": null,
+  "DIN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "DINE": {
     "cik": "0001810747",
     "old_ticker": null
@@ -20231,6 +20721,11 @@
     "cik": "0000785557",
     "old_ticker": "TSTF"
   },
+  "DLLL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "DLMY": {
     "cik": null,
     "flat_file_only": true,
@@ -20384,6 +20879,11 @@
     "old_ticker": null
   },
   "DMK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "DMLP": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -20736,6 +21236,16 @@
     "old_ticker": null
   },
   "DOVA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "DOW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "DOX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -21179,6 +21689,11 @@
   },
   "DSYWW": {
     "cik": "0001999297",
+    "old_ticker": null
+  },
+  "DT": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "DTAN": {
@@ -21647,6 +22162,16 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "DXC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "DXCM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "DXD": {
     "cik": "0001174610",
     "old_ticker": "TYTE"
@@ -21816,6 +22341,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "DZZ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "E": {
     "cik": "0001002242",
     "old_ticker": null
@@ -21967,6 +22497,11 @@
     "old_ticker": null
   },
   "EBR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "EBS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -22260,6 +22795,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "EDU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "EDUC": {
     "cik": "0000031667",
     "old_ticker": null
@@ -22450,6 +22990,11 @@
     "cik": "0001066194",
     "old_ticker": "BIRT"
   },
+  "EGBN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "EGF": {
     "cik": null,
     "flat_file_only": true,
@@ -22519,6 +23064,11 @@
   },
   "EGLE": null,
   "EGLX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "EGO": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -22637,6 +23187,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "EIG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "EIGI": {
     "cik": null,
     "flat_file_only": true,
@@ -22703,6 +23258,11 @@
   },
   "EKSO": {
     "cik": "0001549084",
+    "old_ticker": null
+  },
+  "ELA": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "ELAB": {
@@ -23434,6 +23994,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ENR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ENRD": {
     "cik": "0002095096",
     "old_ticker": null
@@ -23466,6 +24031,11 @@
     "old_ticker": null
   },
   "ENT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ENTA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -23624,6 +24194,11 @@
   },
   "EP": {
     "cik": "0000887396",
+    "old_ticker": null
+  },
+  "EPAC": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "EPAI": {
@@ -23916,6 +24491,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "EQX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ERAS": {
     "cik": "0001761918",
     "old_ticker": null
@@ -24048,6 +24628,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ESCA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ESCR": {
     "cik": null,
     "flat_file_only": true,
@@ -24127,6 +24712,11 @@
     "old_ticker": null
   },
   "ESHY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ESI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -24251,6 +24841,11 @@
     "old_ticker": null
   },
   "ESTA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ESTC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -24399,6 +24994,11 @@
     "cik": "0001281926",
     "old_ticker": null
   },
+  "ETON": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ETOR": {
     "cik": "0001493318",
     "old_ticker": null
@@ -24452,6 +25052,11 @@
   },
   "ETSS.WS": {
     "cik": "0002085932",
+    "old_ticker": null
+  },
+  "ETSY": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "ETTY": {
@@ -24706,6 +25311,11 @@
   },
   "EVH": {
     "cik": "0001628908",
+    "old_ticker": null
+  },
+  "EVI": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "EVK": {
@@ -24966,6 +25576,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "EXC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "EXCVV": {
     "cik": null,
     "flat_file_only": true,
@@ -25009,6 +25624,11 @@
   },
   "EXK": {
     "cik": "0001277866",
+    "old_ticker": null
+  },
+  "EXLS": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "EXN": {
@@ -25284,6 +25904,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FAST": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FAT": {
     "cik": null,
     "flat_file_only": true,
@@ -25413,6 +26038,11 @@
   "FBIO": {
     "cik": "0001429260",
     "old_ticker": "CNDO"
+  },
+  "FBL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "FBLA": {
     "cik": "0002013639",
@@ -26011,6 +26641,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FENC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FENG": {
     "cik": "0001509646",
     "old_ticker": null
@@ -26180,6 +26815,11 @@
     "old_ticker": null
   },
   "FFIEW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "FFIN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -26644,6 +27284,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FINV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FINW": {
     "cik": "0001856365",
     "old_ticker": null
@@ -26689,6 +27334,11 @@
   "FIRY": {
     "cik": "0001801661",
     "old_ticker": "SKLZ"
+  },
+  "FIS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "FISI": {
     "cik": "0000862831",
@@ -26763,6 +27413,11 @@
     "old_ticker": null
   },
   "FIZY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "FIZZ": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -26950,6 +27605,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FLL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FLLC": {
     "cik": null,
     "flat_file_only": true,
@@ -27000,6 +27660,11 @@
   },
   "FLNC": {
     "cik": "0001868941",
+    "old_ticker": null
+  },
+  "FLNG": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "FLNT": {
@@ -27219,6 +27884,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FMC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FMCI": {
     "cik": null,
     "flat_file_only": true,
@@ -27282,6 +27952,11 @@
   },
   "FMKT": {
     "cik": "0001387131",
+    "old_ticker": null
+  },
+  "FMNB": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "FMNY": {
@@ -27460,6 +28135,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FNWB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FNWD": {
     "cik": "0000919864",
     "old_ticker": null
@@ -27523,6 +28203,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FONR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FOPC": {
     "cik": null,
     "flat_file_only": true,
@@ -27576,6 +28261,11 @@
     "cik": "0001039399",
     "old_ticker": null
   },
+  "FORR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FORTY": {
     "cik": "0001045986",
     "old_ticker": null
@@ -27618,7 +28308,22 @@
     "cik": "0001616668",
     "old_ticker": null
   },
+  "FOX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "FOXA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FOXAV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "FOXF": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -27779,6 +28484,11 @@
     "old_ticker": null
   },
   "FRAN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "FRBA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -27973,6 +28683,11 @@
     "old_ticker": null
   },
   "FRONW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "FRPH": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -28212,6 +28927,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FSLY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FSM": {
     "cik": "0001341335",
     "old_ticker": null
@@ -28355,6 +29075,11 @@
     "old_ticker": null
   },
   "FSTB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "FSTR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -28849,6 +29574,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FUN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FUNC": {
     "cik": "0000763907",
     "old_ticker": null
@@ -28931,6 +29661,11 @@
   },
   "FVC": {
     "cik": "0001552740",
+    "old_ticker": null
+  },
+  "FVCB": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "FVD": null,
@@ -29037,6 +29772,11 @@
     "old_ticker": "LCAPB"
   },
   "FWP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "FWRD": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -29656,6 +30396,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "GCO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GCOR": {
     "cik": null,
     "flat_file_only": true,
@@ -29783,6 +30528,11 @@
     "cik": "0002055510",
     "old_ticker": null
   },
+  "GDOT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GDRX": {
     "cik": null,
     "flat_file_only": true,
@@ -29869,6 +30619,11 @@
     "old_ticker": null
   },
   "GEC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "GECC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -29977,6 +30732,11 @@
   },
   "GENB": {
     "cik": "0002100782",
+    "old_ticker": null
+  },
+  "GENC": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "GEND": {
@@ -30665,6 +31425,11 @@
     "cik": "0001061894",
     "old_ticker": "GILw"
   },
+  "GILT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GIM": {
     "cik": null,
     "flat_file_only": true,
@@ -31074,6 +31839,11 @@
     "cik": "0001350869",
     "old_ticker": null
   },
+  "GLOB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GLOF": {
     "cik": "0001100663",
     "old_ticker": "AAIT"
@@ -31110,6 +31880,11 @@
   "GLOW": null,
   "GLP": {
     "cik": "0001323468",
+    "old_ticker": null
+  },
+  "GLPG": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "GLPI": {
@@ -31282,6 +32057,11 @@
   },
   "GM": {
     "cik": "0001467858",
+    "old_ticker": null
+  },
+  "GMAB": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "GMAR": {
@@ -31623,6 +32403,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "GNSS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GNT": {
     "cik": "0001438893",
     "old_ticker": null
@@ -31647,6 +32432,11 @@
   },
   "GNW": {
     "cik": "0001276520",
+    "old_ticker": null
+  },
+  "GO": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "GOAC": {
@@ -31807,6 +32597,11 @@
     "cik": "0001848758",
     "old_ticker": null
   },
+  "GOOS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GOOW": {
     "cik": null,
     "flat_file_only": true,
@@ -31956,6 +32751,11 @@
     "old_ticker": null
   },
   "GPMTPA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "GPN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -32336,6 +33136,11 @@
     "old_ticker": null
   },
   "GRVI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "GRWG": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -33144,6 +33949,11 @@
     "cik": "0002089982",
     "old_ticker": null
   },
+  "HAE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "HAFC": {
     "cik": "0001109242",
     "old_ticker": null
@@ -33317,6 +34127,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "HBB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "HBDC": {
     "cik": null,
     "flat_file_only": true,
@@ -33358,6 +34173,11 @@
   "HBRD": {
     "cik": "0001378872",
     "old_ticker": "BDF"
+  },
+  "HBT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "HBTA": {
     "cik": null,
@@ -33640,6 +34460,11 @@
     "old_ticker": "HTGCR"
   },
   "HCXZ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "HDB": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -34339,6 +35164,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "HLF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "HLG": {
     "cik": null,
     "flat_file_only": true,
@@ -34840,6 +35670,11 @@
     "cik": "0001689873",
     "old_ticker": null
   },
+  "HP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "HPAC": {
     "cik": null,
     "flat_file_only": true,
@@ -34994,8 +35829,18 @@
     "cik": "0001364479",
     "old_ticker": null
   },
+  "HRL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "HRMY": {
     "cik": "0001802665",
+    "old_ticker": null
+  },
+  "HROW": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "HROWL": {
@@ -35031,6 +35876,11 @@
     "old_ticker": "APPA"
   },
   "HRYU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "HRZN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -35596,6 +36446,11 @@
     "cik": "0001936817",
     "old_ticker": null
   },
+  "HY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "HYAC": {
     "cik": null,
     "flat_file_only": true,
@@ -35666,8 +36521,18 @@
     "cik": "0001715925",
     "old_ticker": "IPA"
   },
+  "HYGD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "HYGM": {
     "cik": "0001633061",
+    "old_ticker": null
+  },
+  "HYGU": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "HYGW": {
@@ -35832,6 +36697,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "IAC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "IACA": {
     "cik": null,
     "flat_file_only": true,
@@ -35921,6 +36791,11 @@
   },
   "IAPR": {
     "cik": "0001415726",
+    "old_ticker": null
+  },
+  "IART": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "IAS": {
@@ -36135,6 +37010,11 @@
     "old_ticker": null
   },
   "IBKCO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "IBKR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -36491,6 +37371,11 @@
     "old_ticker": null
   },
   "IDMY": null,
+  "IDN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "IDOG": {
     "cik": "0001414040",
     "old_ticker": "ASDR"
@@ -36572,6 +37457,11 @@
     "old_ticker": null
   },
   "IEAWW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "IEP": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -36663,6 +37553,11 @@
   },
   "IFRX": {
     "cik": "0001708688",
+    "old_ticker": null
+  },
+  "IFS": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "IFV": {
@@ -37157,6 +38052,11 @@
     "cik": "0000049938",
     "old_ticker": null
   },
+  "IMOS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "IMPL": {
     "cik": null,
     "flat_file_only": true,
@@ -37247,6 +38147,11 @@
     "old_ticker": null
   },
   "IMVP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "IMVT": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -37457,6 +38362,11 @@
     "cik": "0001897762",
     "old_ticker": null
   },
+  "INGN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "INHD": {
     "cik": "0001961847",
     "old_ticker": null
@@ -37497,6 +38407,11 @@
     "old_ticker": null
   },
   "INMB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "INMD": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -37577,6 +38492,11 @@
   },
   "INSM": {
     "cik": "0001104506",
+    "old_ticker": null
+  },
+  "INSP": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "INST": {
@@ -37791,6 +38711,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "IONL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "IONM": null,
   "IONQ": {
     "cik": "0001824920",
@@ -37802,6 +38727,11 @@
   },
   "IONR": {
     "cik": "0001896084",
+    "old_ticker": null
+  },
+  "IONS": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "IONX": null,
@@ -38606,6 +39536,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ISSC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ISTM": {
     "cik": null,
     "flat_file_only": true,
@@ -39004,6 +39939,11 @@
     "cik": "0001924868",
     "old_ticker": null
   },
+  "IX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "IXAQ": {
     "cik": null,
     "flat_file_only": true,
@@ -39088,6 +40028,11 @@
     "old_ticker": null
   },
   "JABS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "JACK": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -40055,6 +41000,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "JSM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "JSML": {
     "cik": null,
     "flat_file_only": true,
@@ -40272,6 +41222,11 @@
     "cik": "0001485894",
     "old_ticker": null
   },
+  "JVA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "JVSA": {
     "cik": null,
     "flat_file_only": true,
@@ -40370,6 +41325,11 @@
   },
   "JYD": {
     "cik": "0001938186",
+    "old_ticker": null
+  },
+  "JYNT": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "JZ": {
@@ -40948,6 +41908,11 @@
     "cik": "0001767042",
     "old_ticker": null
   },
+  "KHC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "KHPI": {
     "cik": "0001511699",
     "old_ticker": null
@@ -41199,6 +42164,11 @@
     "cik": "0001547950",
     "old_ticker": null
   },
+  "KMDA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "KMEM": {
     "cik": null,
     "flat_file_only": true,
@@ -41240,6 +42210,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "KMPR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "KMRK": {
     "cik": "0002049187",
     "old_ticker": null
@@ -41250,6 +42225,11 @@
   },
   "KMTS": {
     "cik": "0001877184",
+    "old_ticker": null
+  },
+  "KMX": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "KN": {
@@ -41519,6 +42499,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "KRC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "KREF": {
     "cik": "0001631596",
     "old_ticker": null
@@ -41534,6 +42519,11 @@
   },
   "KRKR": {
     "cik": "0001779476",
+    "old_ticker": null
+  },
+  "KRMD": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "KRMN": {
@@ -41699,6 +42689,11 @@
     "cik": "0001536592",
     "old_ticker": null
   },
+  "KSS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "KSTR": {
     "cik": "0001536592",
     "old_ticker": null
@@ -41714,6 +42709,11 @@
   },
   "KTB": {
     "cik": "0001760965",
+    "old_ticker": null
+  },
+  "KTCC": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "KTEC": {
@@ -41814,6 +42814,11 @@
   },
   "KVACW": {
     "cik": "0001889983",
+    "old_ticker": null
+  },
+  "KVHI": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "KVLE": {
@@ -42318,6 +43323,16 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "LBRDA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "LBRDK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LBRT": {
     "cik": "0001694028",
     "old_ticker": null
@@ -42495,6 +43510,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "LCUT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LCW": {
     "cik": null,
     "flat_file_only": true,
@@ -42642,6 +43662,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "LEGH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LEGN": {
     "cik": "0001801198",
     "old_ticker": null
@@ -42734,6 +43759,11 @@
     "old_ticker": null
   },
   "LEVB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "LEVI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -42949,6 +43979,11 @@
   },
   "LGHT": {
     "cik": "0001484018",
+    "old_ticker": null
+  },
+  "LGIH": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "LGL": {
@@ -43385,6 +44420,11 @@
     "cik": "0001633978",
     "old_ticker": null
   },
+  "LITG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LITL": {
     "cik": "0001810747",
     "old_ticker": null
@@ -43754,6 +44794,11 @@
     "cik": "0001527728",
     "old_ticker": "ENOB"
   },
+  "LNC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LNCPD": {
     "cik": null,
     "flat_file_only": true,
@@ -43864,6 +44909,11 @@
     "old_ticker": null
   },
   "LOAK.U": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "LOAN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -44148,13 +45198,28 @@
     "cik": "0001547950",
     "old_ticker": null
   },
+  "LQDA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LQDB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "LQDD": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
   },
   "LQDT": {
     "cik": "0001235468",
+    "old_ticker": null
+  },
+  "LQDU": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "LQID": {
@@ -44384,6 +45449,11 @@
     "cik": "0001084554",
     "old_ticker": null
   },
+  "LTC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LTCC": null,
   "LTCH": null,
   "LTCHW": {
@@ -44534,6 +45604,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "LUV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LUX": {
     "cik": null,
     "flat_file_only": true,
@@ -44664,6 +45739,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "LVS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LVTX": {
     "cik": null,
     "flat_file_only": true,
@@ -44736,11 +45816,21 @@
     "cik": "0000060714",
     "old_ticker": null
   },
+  "LYB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LYEL": {
     "cik": "0001806952",
     "old_ticker": null
   },
   "LYFE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "LYFT": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -44872,6 +45962,11 @@
   },
   "MAAY": {
     "cik": "0001689873",
+    "old_ticker": null
+  },
+  "MAC": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "MACA": {
@@ -45138,6 +46233,11 @@
     "cik": "0001000623",
     "old_ticker": null
   },
+  "MATW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MATX": {
     "cik": "0000003453",
     "old_ticker": "AXB"
@@ -45332,6 +46432,11 @@
     "old_ticker": null
   },
   "MBII": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "MBIN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -45581,6 +46686,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "MCBS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MCC": {
     "cik": null,
     "flat_file_only": true,
@@ -45637,6 +46747,11 @@
     "old_ticker": "HMST"
   },
   "MCHG": null,
+  "MCHP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MCHPP": {
     "cik": null,
     "flat_file_only": true,
@@ -45962,6 +47077,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "MEC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MED": {
     "cik": null,
     "flat_file_only": true,
@@ -46062,6 +47182,11 @@
     "old_ticker": null
   },
   "MEOAW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "MEOH": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -46382,6 +47507,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "MGPI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MGRB": {
     "cik": "0001004434",
     "old_ticker": null
@@ -46413,6 +47543,11 @@
     "old_ticker": null
   },
   "MGTA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "MGTX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -46788,6 +47923,11 @@
     "old_ticker": null
   },
   "MKAM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "MKC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -47223,6 +48363,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "MNDO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MNDR": {
     "cik": "0001976695",
     "old_ticker": null
@@ -47270,12 +48415,22 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "MNOV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MNPR": {
     "cik": "0001645469",
     "old_ticker": null
   },
   "MNR": {
     "cik": "0001980088",
+    "old_ticker": null
+  },
+  "MNRO": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "MNRPB": {
@@ -47784,6 +48939,16 @@
     "cik": "0001689873",
     "old_ticker": null
   },
+  "MRAM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "MRAX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MRBK": {
     "cik": "0001750735",
     "old_ticker": null
@@ -47967,6 +49132,11 @@
   },
   "MSAIW": {
     "cik": "0001863990",
+    "old_ticker": null
+  },
+  "MSB": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "MSBF": {
@@ -48303,6 +49473,11 @@
   },
   "MTC": {
     "cik": "0001742518",
+    "old_ticker": null
+  },
+  "MTCH": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "MTCN": {
@@ -48697,6 +49872,11 @@
     "cik": "0001137360",
     "old_ticker": null
   },
+  "MVBF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MVF": {
     "cik": null,
     "flat_file_only": true,
@@ -48811,6 +49991,11 @@
   },
   "MXL": {
     "cik": "0001288469",
+    "old_ticker": null
+  },
+  "MXLL": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "MXT": {
@@ -49213,6 +50398,11 @@
     "cik": "0001976322",
     "old_ticker": null
   },
+  "NATR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NAUG": {
     "cik": "0001415726",
     "old_ticker": null
@@ -49512,6 +50702,11 @@
     "old_ticker": null
   },
   "NCLD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "NCLH": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -50043,6 +51238,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "NFE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NFEB": {
     "cik": "0001415726",
     "old_ticker": null
@@ -50277,6 +51477,11 @@
   "NGNE": {
     "cik": "0001404644",
     "old_ticker": "AQXP"
+  },
+  "NGS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "NGSX": {
     "cik": null,
@@ -50545,6 +51750,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "NKE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NKEL": {
     "cik": null,
     "flat_file_only": true,
@@ -50591,6 +51801,11 @@
   },
   "NKX": {
     "cik": "0001195738",
+    "old_ticker": null
+  },
+  "NL": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "NLIT": {
@@ -50879,6 +52094,11 @@
     "old_ticker": null
   },
   "NNEX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "NNN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -51195,6 +52415,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "NRC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NRDS": {
     "cik": "0001625278",
     "old_ticker": null
@@ -51244,6 +52469,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "NRIM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NRIX": {
     "cik": "0001549595",
     "old_ticker": null
@@ -51276,6 +52506,11 @@
   },
   "NRSNW": {
     "cik": "0001875091",
+    "old_ticker": null
+  },
+  "NRT": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "NRXP": {
@@ -51391,6 +52626,11 @@
     "cik": "0001509470",
     "old_ticker": "GSVC"
   },
+  "NSP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NSPI": {
     "cik": null,
     "flat_file_only": true,
@@ -51437,6 +52677,11 @@
   },
   "NSRX": {
     "cik": "0002029039",
+    "old_ticker": null
+  },
+  "NSSC": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "NSTB": {
@@ -51790,6 +53035,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "NUS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NUSB": {
     "cik": "0001635073",
     "old_ticker": null
@@ -52005,6 +53255,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "NVO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NVOC": {
     "cik": null,
     "flat_file_only": true,
@@ -52054,6 +53309,11 @@
     "old_ticker": null
   },
   "NVSAW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "NVST": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -52168,6 +53428,11 @@
     "old_ticker": null
   },
   "NWMX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "NWN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -52724,6 +53989,11 @@
     "cik": "0001000230",
     "old_ticker": null
   },
+  "OCCI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "OCCIM": {
     "cik": "0001716951",
     "old_ticker": null
@@ -53004,6 +54274,11 @@
     "cik": "0001030469",
     "old_ticker": null
   },
+  "OFIX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "OFOS": {
     "cik": null,
     "flat_file_only": true,
@@ -53067,6 +54342,11 @@
     "old_ticker": null
   },
   "OGGWZ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "OGI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -53302,7 +54582,17 @@
     "cik": "0001722388",
     "old_ticker": null
   },
+  "OMC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "OMCC": null,
+  "OMCL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "OMDA": {
     "cik": "0001611115",
     "old_ticker": null
@@ -53563,6 +54853,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "OOMA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "OOQB": {
     "cik": null,
     "flat_file_only": true,
@@ -53621,6 +54916,11 @@
     "old_ticker": null
   },
   "OPB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "OPBK": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -53974,6 +55274,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ORRF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ORSN": {
     "cik": null,
     "flat_file_only": true,
@@ -54143,6 +55448,11 @@
   },
   "OSUR": {
     "cik": "0001116463",
+    "old_ticker": null
+  },
+  "OSW": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "OTAI": {
@@ -54316,6 +55626,11 @@
     "cik": "0001776878",
     "old_ticker": null
   },
+  "OVID": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "OVLH": {
     "cik": "0001776878",
     "old_ticker": null
@@ -54427,6 +55742,11 @@
     "old_ticker": null
   },
   "OXLCZ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "OXM": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -54602,6 +55922,11 @@
     "old_ticker": null
   },
   "PACI.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "PACK": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -54782,6 +56107,11 @@
   },
   "PANG": {
     "cik": "0001976322",
+    "old_ticker": null
+  },
+  "PANL": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "PAPI": {
@@ -55002,6 +56332,11 @@
     "old_ticker": null
   },
   "PBFB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "PBFS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -55403,6 +56738,16 @@
     "cik": "0000914208",
     "old_ticker": null
   },
+  "PCYO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "PD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PDAC": {
     "cik": null,
     "flat_file_only": true,
@@ -55553,6 +56898,11 @@
     "cik": "0001093672",
     "old_ticker": null
   },
+  "PEBO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PEBPE": {
     "cik": null,
     "flat_file_only": true,
@@ -55599,6 +56949,11 @@
     "old_ticker": null
   },
   "PEDH": null,
+  "PEGA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PEGI": {
     "cik": null,
     "flat_file_only": true,
@@ -55703,6 +57058,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "PERI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PES": {
     "cik": null,
     "flat_file_only": true,
@@ -55794,6 +57154,11 @@
     "old_ticker": null
   },
   "PFDRW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "PFE": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -56001,6 +57366,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "PGNY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PGP": {
     "cik": "0001318025",
     "old_ticker": null
@@ -56191,6 +57561,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "PHR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PHT": {
     "cik": null,
     "flat_file_only": true,
@@ -56321,6 +57696,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "PII": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PIII": {
     "cik": "0001832511",
     "old_ticker": null
@@ -56343,6 +57723,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "PINE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PINEPA": {
     "cik": null,
     "flat_file_only": true,
@@ -56350,6 +57735,11 @@
   },
   "PINK": {
     "cik": "0001810747",
+    "old_ticker": null
+  },
+  "PINS": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "PIOI": {
@@ -56427,6 +57817,11 @@
   },
   "PK": {
     "cik": "0001617406",
+    "old_ticker": null
+  },
+  "PKBK": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "PKBO": {
@@ -56530,6 +57925,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "PLCE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PLDR": {
     "cik": null,
     "flat_file_only": true,
@@ -56610,6 +58010,11 @@
     "old_ticker": null
   },
   "PLMRW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "PLNT": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -57162,6 +58567,11 @@
     "cik": "0001969302",
     "old_ticker": null
   },
+  "POR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PORT": {
     "cik": null,
     "flat_file_only": true,
@@ -57187,6 +58597,11 @@
     "old_ticker": null
   },
   "POWA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "POWI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -58119,6 +59534,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "PSTL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PSTP": {
     "cik": null,
     "flat_file_only": true,
@@ -58346,6 +59766,11 @@
     "old_ticker": null
   },
   "PTOCW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "PTON": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -58702,6 +60127,11 @@
     "cik": "0001976322",
     "old_ticker": null
   },
+  "PYPL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PYPS": {
     "cik": null,
     "flat_file_only": true,
@@ -58887,6 +60317,11 @@
     "cik": "0001321834",
     "old_ticker": "AKER"
   },
+  "QCML": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "QCMU": {
     "cik": null,
     "flat_file_only": true,
@@ -59014,6 +60449,11 @@
     "cik": "0001616668",
     "old_ticker": null
   },
+  "QFIN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "QFLR": {
     "cik": "0001415726",
     "old_ticker": null
@@ -59033,6 +60473,11 @@
     "old_ticker": null
   },
   "QFTA.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "QGEN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -59478,6 +60923,11 @@
     "cik": "0002074409",
     "old_ticker": null
   },
+  "QSR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "QSU": null,
   "QSWN": {
     "cik": null,
@@ -59558,6 +61008,11 @@
     "old_ticker": "FIXX"
   },
   "QTUP": null,
+  "QTWO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "QUA": {
     "cik": null,
     "flat_file_only": true,
@@ -59576,6 +61031,11 @@
   "QUCY": {
     "cik": "0001874252",
     "old_ticker": "MYNZ"
+  },
+  "QUIK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "QUIZ": {
     "cik": null,
@@ -59845,6 +61305,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "RAMP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RAMZ": {
     "cik": null,
     "flat_file_only": true,
@@ -59895,6 +61360,11 @@
     "old_ticker": null
   },
   "RAUS": null,
+  "RAVE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RAY": {
     "cik": "0001948443",
     "old_ticker": null
@@ -59938,6 +61408,16 @@
     "old_ticker": null
   },
   "RBAC.U": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RBB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RBBN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -60025,6 +61505,11 @@
     "old_ticker": null
   },
   "RBZ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -60118,6 +61603,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "RCI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RCKT": {
     "cik": "0001281895",
     "old_ticker": "ITEK"
@@ -60125,6 +61615,11 @@
   "RCKTW": {
     "cik": "0001281895",
     "old_ticker": "ITEK"
+  },
+  "RCKY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "RCLF": {
     "cik": null,
@@ -60273,8 +61768,18 @@
     "cik": "0001553846",
     "old_ticker": null
   },
+  "RDI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RDIB": {
     "cik": "0000716634",
+    "old_ticker": null
+  },
+  "RDN": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "RDNW": {
@@ -60318,7 +61823,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "RDWR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RDWU": null,
+  "RDY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RDYY": {
     "cik": null,
     "flat_file_only": true,
@@ -60334,6 +61849,11 @@
   },
   "REA": {
     "cik": "0002095743",
+    "old_ticker": null
+  },
+  "REAL": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "REAX": {
@@ -60441,7 +61961,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "RELL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RELV": null,
+  "RELX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RELY": {
     "cik": "0001782170",
     "old_ticker": null
@@ -60504,6 +62034,11 @@
   },
   "RERE": {
     "cik": "0001838957",
+    "old_ticker": null
+  },
+  "RES": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "RESD": {
@@ -60592,7 +62127,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "REX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "REXC": null,
+  "REXR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "REXRPA": {
     "cik": null,
     "flat_file_only": true,
@@ -60610,6 +62155,16 @@
   },
   "REYN": {
     "cik": "0001786431",
+    "old_ticker": null
+  },
+  "REZI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RF": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "RFAC": {
@@ -60751,6 +62306,11 @@
     "cik": "0001084765",
     "old_ticker": null
   },
+  "RGR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RGRE": {
     "cik": null,
     "flat_file_only": true,
@@ -60786,6 +62346,11 @@
     "old_ticker": null
   },
   "RHEPA": null,
+  "RHI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RHLD": {
     "cik": "0002039497",
     "old_ticker": "RHLDV"
@@ -60824,6 +62389,11 @@
     "old_ticker": null
   },
   "RICE.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RICK": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -61124,7 +62694,17 @@
     "cik": "0001812364",
     "old_ticker": null
   },
+  "RLGT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RLH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RLJ": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -61151,6 +62731,11 @@
     "old_ticker": null
   },
   "RM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RMAX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -61286,6 +62871,11 @@
     "cik": "0001722388",
     "old_ticker": null
   },
+  "RMR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RMRC": {
     "cik": "0001547950",
     "old_ticker": null
@@ -61373,6 +62963,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "RNG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RNGR": {
     "cik": "0001699039",
     "old_ticker": null
@@ -61420,6 +63015,11 @@
     "old_ticker": null
   },
   "RNSC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RNST": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -61512,6 +63112,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ROCK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ROCL": {
     "cik": null,
     "flat_file_only": true,
@@ -61579,6 +63184,11 @@
   },
   "ROKU": {
     "cik": "0001428439",
+    "old_ticker": null
+  },
+  "ROL": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "ROLA": {
@@ -61711,6 +63321,11 @@
     "cik": "0001841968",
     "old_ticker": "PX"
   },
+  "RPD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RPGL": {
     "cik": "0001912884",
     "old_ticker": null
@@ -61788,6 +63403,11 @@
     "old_ticker": null
   },
   "RRAC.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "RRC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -62206,6 +63826,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "RVSB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RVSN": {
     "cik": "0001743905",
     "old_ticker": null
@@ -62388,6 +64013,11 @@
     "cik": "0001800637",
     "old_ticker": "AGFY"
   },
+  "RYN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RYOJ": {
     "cik": "0002012600",
     "old_ticker": null
@@ -62430,6 +64060,11 @@
     "cik": "0001583708",
     "old_ticker": null
   },
+  "SA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SAAQ": {
     "cik": "0002091222",
     "old_ticker": null
@@ -62455,6 +64090,11 @@
   },
   "SABA": {
     "cik": "0000828803",
+    "old_ticker": null
+  },
+  "SABR": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SABRP": {
@@ -62488,6 +64128,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SACH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SACHPA": {
     "cik": null,
     "flat_file_only": true,
@@ -62504,6 +64149,11 @@
     "old_ticker": null
   },
   "SAF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SAFE": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -62634,6 +64284,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SAMG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SAMM": {
     "cik": "0001593547",
     "old_ticker": null
@@ -62644,6 +64299,11 @@
     "old_ticker": null
   },
   "SAMT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SAN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -62697,6 +64357,11 @@
     "old_ticker": null
   },
   "SAQNW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SAR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -62794,6 +64459,11 @@
     "cik": "0001377936",
     "old_ticker": "SAK"
   },
+  "SB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SBBA": {
     "cik": null,
     "flat_file_only": true,
@@ -62883,6 +64553,16 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SBGI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SBH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SBIG": null,
   "SBIGW": {
     "cik": null,
@@ -62905,6 +64585,11 @@
     "old_ticker": null
   },
   "SBIL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SBLK": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -62941,7 +64626,22 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SBRA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SBS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SBSA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SBSI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -63119,6 +64819,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SCHL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SCHWPJ": {
     "cik": null,
     "flat_file_only": true,
@@ -63181,6 +64886,11 @@
   "SCLXW": {
     "cik": "0001820190",
     "old_ticker": "VCKA"
+  },
+  "SCM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "SCMA": {
     "cik": null,
@@ -63329,6 +65039,11 @@
     "cik": "0000889284",
     "old_ticker": null
   },
+  "SCSC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SCTL": {
     "cik": null,
     "flat_file_only": true,
@@ -63365,6 +65080,11 @@
   },
   "SCUS": {
     "cik": "0001454889",
+    "old_ticker": null
+  },
+  "SCVL": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SCVX": {
@@ -63676,6 +65396,11 @@
     "cik": "0001990950",
     "old_ticker": null
   },
+  "SEM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SEMG": {
     "cik": null,
     "flat_file_only": true,
@@ -63846,8 +65571,18 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SFL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SFLO": null,
   "SFLR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SFNC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -63945,6 +65680,11 @@
     "old_ticker": null
   },
   "SGBXV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SGC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -64080,7 +65820,17 @@
     "cik": "0001860434",
     "old_ticker": null
   },
+  "SGRY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SGTX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SGU": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -64111,6 +65861,11 @@
     "old_ticker": null
   },
   "SHACW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SHAK": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -64182,6 +65937,11 @@
     "old_ticker": null
   },
   "SHELW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SHEN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -64263,6 +66023,11 @@
     "cik": "0000927971",
     "old_ticker": null
   },
+  "SHO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SHOC": {
     "cik": null,
     "flat_file_only": true,
@@ -64271,6 +66036,11 @@
   "SHOE": {
     "cik": "0000895447",
     "old_ticker": "SCVL"
+  },
+  "SHOO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "SHOPF": {
     "cik": null,
@@ -64392,7 +66162,17 @@
     "cik": "0001699350",
     "old_ticker": null
   },
+  "SIBN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SICK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SID": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -64444,6 +66224,11 @@
     "old_ticker": null
   },
   "SIG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SIGA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -64542,8 +66327,23 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SIRI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SISI": null,
+  "SITC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SITCW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SITX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -64618,6 +66418,11 @@
     "old_ticker": null
   },
   "SJOYW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SJT": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -64732,6 +66537,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SKM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SKOR": {
     "cik": null,
     "flat_file_only": true,
@@ -64739,6 +66549,11 @@
   },
   "SKRE": {
     "cik": "0001771146",
+    "old_ticker": null
+  },
+  "SKT": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SKUU": {
@@ -64796,6 +66611,11 @@
     "cik": "0001598981",
     "old_ticker": null
   },
+  "SLAB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SLAC": {
     "cik": null,
     "flat_file_only": true,
@@ -64836,6 +66656,11 @@
     "old_ticker": null
   },
   "SLAMW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SLB": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -64884,6 +66709,11 @@
     "cik": "0001621672",
     "old_ticker": "SLGG"
   },
+  "SLG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SLGB": {
     "cik": "0001987189",
     "old_ticker": null
@@ -64907,6 +66737,11 @@
     "cik": "0001684693",
     "old_ticker": null
   },
+  "SLGN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SLHG": {
     "cik": null,
     "flat_file_only": true,
@@ -64923,6 +66758,11 @@
   },
   "SLJY": {
     "cik": "0001633061",
+    "old_ticker": null
+  },
+  "SLM": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SLMBP": {
@@ -64988,8 +66828,18 @@
     "old_ticker": null
   },
   "SLON": null,
+  "SLP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SLQT": {
     "cik": "0001794783",
+    "old_ticker": null
+  },
+  "SLRC": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SLRN": {
@@ -65100,6 +66950,11 @@
     "cik": "0001667919",
     "old_ticker": null
   },
+  "SMBK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SMBS": {
     "cik": "0001454889",
     "old_ticker": null
@@ -65163,6 +67018,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SMFG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SMFL": null,
   "SMFR": {
     "cik": null,
@@ -65170,6 +67030,11 @@
     "old_ticker": null
   },
   "SMFRW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SMG": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -65278,6 +67143,16 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SMP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SMPL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SMQ": {
     "cik": null,
     "flat_file_only": true,
@@ -65377,6 +67252,11 @@
     "cik": "0001886894",
     "old_ticker": null
   },
+  "SNAP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SNAV": null,
   "SNAX": null,
   "SNAXW": null,
@@ -65438,13 +67318,28 @@
     "old_ticker": null
   },
   "SNDQ": null,
+  "SNDR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SNDU": null,
+  "SNDX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SNES": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
   },
   "SNEX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SNFCA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -65480,6 +67375,11 @@
     "old_ticker": null
   },
   "SNMP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SNN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -65601,6 +67501,11 @@
     "old_ticker": null
   },
   "SNXX": null,
+  "SNY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SNYR": {
     "cik": "0001562733",
     "old_ticker": null
@@ -65711,6 +67616,11 @@
   "SOHOB": null,
   "SOHON": null,
   "SOHOO": null,
+  "SOHU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SOI": {
     "cik": null,
     "flat_file_only": true,
@@ -65783,6 +67693,11 @@
   "SOMN": {
     "cik": "0000092122",
     "old_ticker": "SOLN"
+  },
+  "SON": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "SOND": {
     "cik": null,
@@ -65895,6 +67810,11 @@
   },
   "SOXQ": {
     "cik": "0000914208",
+    "old_ticker": null
+  },
+  "SOXS": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SOXW": {
@@ -66110,6 +68030,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SPH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SPHA": {
     "cik": null,
     "flat_file_only": true,
@@ -66264,6 +68189,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SPOK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SPPI": {
     "cik": null,
     "flat_file_only": true,
@@ -66334,6 +68264,11 @@
   },
   "SPRY": {
     "cik": "0001671858",
+    "old_ticker": null
+  },
+  "SPT": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SPTB": {
@@ -66503,6 +68438,11 @@
     "cik": "0001645194",
     "old_ticker": null
   },
+  "SQM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SQMR": {
     "cik": null,
     "flat_file_only": true,
@@ -66594,6 +68534,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SRI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SRJN": {
     "cik": "0001126956",
     "old_ticker": null
@@ -66631,6 +68576,11 @@
     "old_ticker": "AVII"
   },
   "SRPU": null,
+  "SRRK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SRSA": {
     "cik": null,
     "flat_file_only": true,
@@ -66760,6 +68710,11 @@
     "old_ticker": null
   },
   "SSKN": null,
+  "SSL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SSLJ": {
     "cik": null,
     "flat_file_only": true,
@@ -66818,7 +68773,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SSRM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SSS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SSSS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -66832,6 +68797,11 @@
     "old_ticker": null
   },
   "SST.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SSTI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -66866,12 +68836,27 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SSYS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ST": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "STAA": {
     "cik": "0000718937",
     "old_ticker": null
   },
   "STAB": null,
   "STAF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "STAG": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -66883,6 +68868,11 @@
   },
   "STAX": {
     "cik": "0001969995",
+    "old_ticker": null
+  },
+  "STBA": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "STBF": {
@@ -67051,9 +69041,19 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "STKS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "STLA": {
     "cik": "0001605484",
     "old_ticker": "FCAU"
+  },
+  "STLL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "STLN": {
     "cik": null,
@@ -67075,6 +69075,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "STM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "STNC": {
     "cik": "0000891944",
     "old_ticker": null
@@ -67084,7 +69089,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "STNE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "STNEV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "STNG": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -67204,6 +69219,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "STRO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "STRP": {
     "cik": null,
     "flat_file_only": true,
@@ -67216,6 +69236,11 @@
   "STRRP": {
     "cik": "0001210708",
     "old_ticker": "HHGP"
+  },
+  "STRS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "STRT": {
     "cik": "0000933034",
@@ -67283,6 +69308,11 @@
   },
   "STVN": {
     "cik": "0001849853",
+    "old_ticker": null
+  },
+  "STWD": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "STWO": {
@@ -67470,6 +69500,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SUPV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SUPX": {
     "cik": "0001897087",
     "old_ticker": "JUNE"
@@ -67490,6 +69525,11 @@
   },
   "SUUN": {
     "cik": "0002011053",
+    "old_ticker": null
+  },
+  "SUZ": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SV": {
@@ -67615,6 +69655,11 @@
   },
   "SVIX": {
     "cik": "0001793497",
+    "old_ticker": null
+  },
+  "SVM": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "SVMH": {
@@ -67772,6 +69817,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SWK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SWKH": {
     "cik": null,
     "flat_file_only": true,
@@ -67780,6 +69830,11 @@
   "SWKHL": {
     "cik": "0001089907",
     "old_ticker": "KANA"
+  },
+  "SWKS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "SWMR": {
     "cik": "0002092574",
@@ -67809,6 +69864,11 @@
     "old_ticker": null
   },
   "SWZ.WD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SXC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -67918,6 +69978,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "T": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "T.WD": {
     "cik": null,
     "flat_file_only": true,
@@ -67927,6 +69992,11 @@
   "TABD": {
     "cik": "0001785424",
     "old_ticker": "FSRV"
+  },
+  "TAC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "TACA": {
     "cik": null,
@@ -68018,6 +70088,16 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TAK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TAL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TALK": {
     "cik": "0001803901",
     "old_ticker": "HEC"
@@ -68025,6 +70105,11 @@
   "TALKW": {
     "cik": "0001803901",
     "old_ticker": "HEC"
+  },
+  "TALO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "TALO.WS": {
     "cik": null,
@@ -68068,6 +70153,11 @@
     "old_ticker": null
   },
   "TAOZ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TAP": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -68362,6 +70452,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TCBK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TCBP": {
     "cik": null,
     "flat_file_only": true,
@@ -68408,6 +70503,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TCMD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TCN": {
     "cik": null,
     "flat_file_only": true,
@@ -68433,6 +70533,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TCOM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TCON": {
     "cik": null,
     "flat_file_only": true,
@@ -68443,6 +70548,11 @@
     "old_ticker": null
   },
   "TCPB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TCPC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -68558,6 +70668,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TDS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TDSA": {
     "cik": null,
     "flat_file_only": true,
@@ -68643,8 +70758,23 @@
     "cik": "0001454938",
     "old_ticker": "OB"
   },
+  "TEAM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TEC": {
     "cik": "0001860434",
+    "old_ticker": null
+  },
+  "TECH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TECK": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "TECTP": {
@@ -68737,6 +70867,11 @@
     "cik": "0001166663",
     "old_ticker": "TNP"
   },
+  "TENB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TEND": {
     "cik": "0001100663",
     "old_ticker": "AAIT"
@@ -68772,6 +70907,11 @@
   "TENX": {
     "cik": "0000034956",
     "old_ticker": "OXBT"
+  },
+  "TEO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "TEQI": null,
   "TERC": {
@@ -68848,6 +70988,11 @@
     "old_ticker": null
   },
   "TEUP": null,
+  "TEVA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TEXN": {
     "cik": "0001100663",
     "old_ticker": "AAIT"
@@ -68858,6 +71003,11 @@
     "old_ticker": null
   },
   "TEXX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TFC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -68923,6 +71073,16 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TFSL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TGAA": {
     "cik": null,
     "flat_file_only": true,
@@ -68944,6 +71104,11 @@
     "old_ticker": null
   },
   "TGAN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TGB": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -69002,6 +71167,11 @@
     "cik": "0001771146",
     "old_ticker": null
   },
+  "TGLS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TGN": {
     "cik": null,
     "flat_file_only": true,
@@ -69024,6 +71194,11 @@
   },
   "TGRT": null,
   "TGRW": null,
+  "TGS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TGTX": {
     "cik": "0001001316",
     "old_ticker": "MHA"
@@ -69200,7 +71375,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "THR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "THRD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "THRM": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -69327,6 +71512,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TILE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TILL": {
     "cik": null,
     "flat_file_only": true,
@@ -69428,6 +71618,11 @@
     "cik": "0000318833",
     "old_ticker": null
   },
+  "TITN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TIVC": {
     "cik": "0001787740",
     "old_ticker": null
@@ -69453,12 +71648,22 @@
     "cik": "0001667919",
     "old_ticker": null
   },
+  "TK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TKAI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
   },
   "TKAT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TKC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -69572,6 +71777,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TLK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TLMD": {
     "cik": null,
     "flat_file_only": true,
@@ -69608,6 +71818,11 @@
     "old_ticker": "ACRX"
   },
   "TLRD": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TLRY": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -69724,6 +71939,11 @@
     "cik": "0001756262",
     "old_ticker": null
   },
+  "TME": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TMED": {
     "cik": null,
     "flat_file_only": true,
@@ -69760,6 +71980,11 @@
     "old_ticker": null
   },
   "TMH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TMHC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -69815,6 +72040,11 @@
     "old_ticker": null
   },
   "TMPOW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TMQ": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -69903,6 +72133,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TNET": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TNFA": {
     "cik": null,
     "flat_file_only": true,
@@ -69913,6 +72148,11 @@
     "old_ticker": "BCTG"
   },
   "TNGY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TNK": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -70098,6 +72338,11 @@
     "cik": "0000894158",
     "old_ticker": "AEN"
   },
+  "TOWN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TOXR": {
     "cik": "0002028835",
     "old_ticker": null
@@ -70176,6 +72421,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TPH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TPHE": {
     "cik": null,
     "flat_file_only": true,
@@ -70220,6 +72470,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TPVG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TPVY": {
     "cik": null,
     "flat_file_only": true,
@@ -70227,6 +72482,11 @@
   },
   "TQQY": {
     "cik": "0001689873",
+    "old_ticker": null
+  },
+  "TR": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "TRAD": {
@@ -70280,6 +72540,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TRC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TRCA": {
     "cik": null,
     "flat_file_only": true,
@@ -70325,6 +72590,11 @@
     "old_ticker": null
   },
   "TRES": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TREX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -70422,8 +72692,18 @@
     "cik": "0001754195",
     "old_ticker": null
   },
+  "TRMB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TRMD": {
     "cik": "0001655891",
+    "old_ticker": null
+  },
+  "TRMK": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "TRML": {
@@ -70432,6 +72712,11 @@
     "old_ticker": null
   },
   "TRMR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TRN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -70492,6 +72777,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TROX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TRPA": {
     "cik": "0001501825",
     "old_ticker": null
@@ -70502,6 +72792,11 @@
     "old_ticker": null
   },
   "TRQR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TRS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -70550,6 +72845,11 @@
     "old_ticker": null
   },
   "TRTNPG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TRTX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -70606,6 +72906,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TRUP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TRUR": {
     "cik": null,
     "flat_file_only": true,
@@ -70619,11 +72924,21 @@
     "cik": "0001134765",
     "old_ticker": "BZI"
   },
+  "TRVG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TRVI": {
     "cik": "0001563880",
     "old_ticker": null
   },
   "TRVN": null,
+  "TRX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TRXC": {
     "cik": null,
     "flat_file_only": true,
@@ -70656,6 +72971,11 @@
   "TSCM": {
     "cik": "0001785424",
     "old_ticker": "FSRV"
+  },
+  "TSCO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "TSDD": {
     "cik": null,
@@ -70800,6 +73120,11 @@
     "old_ticker": null
   },
   "TSLW": null,
+  "TSLX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TSLY": {
     "cik": null,
     "flat_file_only": true,
@@ -70828,6 +73153,11 @@
     "old_ticker": null
   },
   "TSMY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TSN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -70986,8 +73316,23 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TTEK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TTEQ": null,
+  "TTGT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TTI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TTMI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71038,6 +73383,11 @@
     "old_ticker": null
   },
   "TTXU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TU": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71122,6 +73472,11 @@
   },
   "TUYA": {
     "cik": "0001829118",
+    "old_ticker": null
+  },
+  "TV": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "TVA": {
@@ -71227,6 +73582,16 @@
     "cik": "0001978057",
     "old_ticker": null
   },
+  "TWI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TWIN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TWIO": {
     "cik": null,
     "flat_file_only": true,
@@ -71318,6 +73683,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "TWO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "TWOA": {
     "cik": null,
     "flat_file_only": true,
@@ -71337,6 +73707,16 @@
     "old_ticker": "AAIT"
   },
   "TWSC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TWST": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "TX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71396,6 +73776,11 @@
   },
   "TXXS": {
     "cik": "0001683471",
+    "old_ticker": null
+  },
+  "TY": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "TYA": {
@@ -71514,6 +73899,16 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "UA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UAA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UAC": {
     "cik": "0002098669",
     "old_ticker": null
@@ -71585,6 +73980,21 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "UBRL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UBS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UBSI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UBX": {
     "cik": null,
     "flat_file_only": true,
@@ -71634,6 +74044,11 @@
     "old_ticker": null
   },
   "UCRD": null,
+  "UCTT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UCTX": {
     "cik": null,
     "flat_file_only": true,
@@ -71658,8 +74073,33 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "UDR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UEC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UECG": null,
+  "UEIC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UFAB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UFCS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71696,7 +74136,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "UGI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UGIC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UGP": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71724,11 +74174,26 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "UHT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UIS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UK": {
     "cik": "0001821424",
     "old_ticker": null
   },
   "UKOMW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ULBI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71778,7 +74243,22 @@
     "cik": "0000101382",
     "old_ticker": null
   },
+  "UMC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UMCU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UMCX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UMH": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71825,6 +74305,11 @@
     "old_ticker": null
   },
   "UNHW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "UNIT": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71936,6 +74421,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "UPWK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UPXI": {
     "cik": "0001775194",
     "old_ticker": "GRVI"
@@ -71946,6 +74436,21 @@
     "old_ticker": null
   },
   "URAX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "URBN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "URG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "URGN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -71965,6 +74470,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "USAC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "USAF": {
     "cik": "0001616265",
     "old_ticker": null
@@ -71974,6 +74484,11 @@
     "old_ticker": "IPXX"
   },
   "USARW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "USAS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -72136,6 +74651,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "USNA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "USNG": {
     "cik": "0001633061",
     "old_ticker": null
@@ -72258,6 +74778,11 @@
     "old_ticker": null
   },
   "UUUG": null,
+  "UUUU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UUUU.WS": {
     "cik": null,
     "flat_file_only": true,
@@ -72268,8 +74793,18 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "UVE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "UVIX": {
     "cik": "0001793497",
+    "old_ticker": null
+  },
+  "UVSP": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "UVXY": {
@@ -72349,6 +74884,11 @@
     "cik": "0001648403",
     "old_ticker": null
   },
+  "VAC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VACC": {
     "cik": null,
     "flat_file_only": true,
@@ -72401,6 +74941,11 @@
   "VAL.WS": {
     "cik": "0000314808",
     "old_ticker": "ESV"
+  },
+  "VALE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "VALG": {
     "cik": null,
@@ -72576,6 +75121,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VCEL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VCF": {
     "cik": null,
     "flat_file_only": true,
@@ -72707,6 +75257,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VCYT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VDG": {
     "cik": null,
     "flat_file_only": true,
@@ -72740,6 +75295,11 @@
     "old_ticker": null
   },
   "VECAR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "VECO": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -72828,6 +75388,11 @@
     "cik": "0001770501",
     "old_ticker": null
   },
+  "VEON": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VERA": {
     "cik": "0001831828",
     "old_ticker": null
@@ -72880,6 +75445,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VET": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VETS": {
     "cik": null,
     "flat_file_only": true,
@@ -72895,6 +75465,11 @@
     "old_ticker": null
   },
   "VEXC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "VFC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -73008,6 +75583,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VGZ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VHAI": null,
   "VHAI.WS.A": {
     "cik": null,
@@ -73051,6 +75631,11 @@
     "cik": "0002086264",
     "old_ticker": null
   },
+  "VHI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VHNA": {
     "cik": null,
     "flat_file_only": true,
@@ -73089,6 +75674,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VIAV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VIAVV": {
     "cik": null,
     "flat_file_only": true,
@@ -73097,6 +75687,11 @@
   "VICE": {
     "cik": "0001408970",
     "old_ticker": "YPRO"
+  },
+  "VICI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "VIDA": {
     "cik": "0001973062",
@@ -73182,6 +75777,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VIPS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VIR": {
     "cik": null,
     "flat_file_only": true,
@@ -73201,6 +75801,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VIRT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VIRX": {
     "cik": null,
     "flat_file_only": true,
@@ -73214,6 +75819,11 @@
   "VISN": {
     "cik": "0001517228",
     "old_ticker": "COMM"
+  },
+  "VIST": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "VITC": {
     "cik": null,
@@ -73371,6 +75981,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VLY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VLYPN": {
     "cik": "0000714310",
     "old_ticker": null
@@ -73470,6 +76085,16 @@
     "cik": "0001579157",
     "old_ticker": null
   },
+  "VNDA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "VNET": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VNIE": {
     "cik": null,
     "flat_file_only": true,
@@ -73490,6 +76115,16 @@
   },
   "VNMEW": {
     "cik": "0002055879",
+    "old_ticker": null
+  },
+  "VNO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "VNOM": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "VNOPN": {
@@ -73520,6 +76155,11 @@
     "old_ticker": null
   },
   "VOC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "VOD": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -73623,6 +76263,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VPG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VPN": {
     "cik": null,
     "flat_file_only": true,
@@ -73644,6 +76289,11 @@
     "old_ticker": null
   },
   "VR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "VRA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -73675,6 +76325,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VREX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VRM": {
     "cik": "0001580864",
     "old_ticker": null
@@ -73694,6 +76349,11 @@
     "old_ticker": null
   },
   "VRN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "VRNS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -73754,6 +76414,11 @@
     "old_ticker": null
   },
   "VSACW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "VSAT": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -74065,6 +76730,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VVV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VVX": {
     "cik": null,
     "flat_file_only": true,
@@ -74128,6 +76798,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VYGR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VYLD": {
     "cik": "0000019617",
     "old_ticker": null
@@ -74150,6 +76825,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VZ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VZIO": {
     "cik": null,
     "flat_file_only": true,
@@ -74166,6 +76846,11 @@
   },
   "WABF": {
     "cik": "0001655589",
+    "old_ticker": null
+  },
+  "WAFD": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "WAFDP": {
@@ -74229,6 +76914,11 @@
     "old_ticker": null
   },
   "WARR.WS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WASH": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -74560,6 +77250,16 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "WERN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WES": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WEST": {
     "cik": "0001806347",
     "old_ticker": null
@@ -74584,6 +77284,11 @@
   },
   "WEX": {
     "cik": "0001309108",
+    "old_ticker": null
+  },
+  "WEYS": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "WFCF": {
@@ -74653,6 +77358,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "WGO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WGRO": {
     "cik": null,
     "flat_file_only": true,
@@ -74669,6 +77379,11 @@
   "WGSWW": {
     "cik": "0001818331",
     "old_ticker": "CMLF"
+  },
+  "WHF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "WHFCL": {
     "cik": "0001552198",
@@ -74696,6 +77411,11 @@
     "old_ticker": null
   },
   "WHLRW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WHR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -74772,6 +77492,16 @@
     "old_ticker": null
   },
   "WISH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WIT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WIX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -74881,6 +77611,11 @@
     "cik": "0002083946",
     "old_ticker": null
   },
+  "WLKP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WLL": {
     "cik": null,
     "flat_file_only": true,
@@ -74937,12 +77672,22 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "WNC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WNDR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
   },
   "WNDY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WNEB": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -75057,6 +77802,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "WPP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WPRT": {
     "cik": "0001370416",
     "old_ticker": null
@@ -75146,6 +77896,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "WRN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WRND": {
     "cik": null,
     "flat_file_only": true,
@@ -75161,6 +77916,11 @@
     "cik": "0001968487",
     "old_ticker": "WSw"
   },
+  "WSBC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WSBCO": {
     "cik": "0000203596",
     "old_ticker": null
@@ -75170,8 +77930,18 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "WSBF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WSBK": {
     "cik": "0002047235",
+    "old_ticker": null
+  },
+  "WSC": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "WSDB": {
@@ -75206,6 +77976,11 @@
     "cik": "0001350487",
     "old_ticker": "GLCB"
   },
+  "WSR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WSTG": {
     "cik": null,
     "flat_file_only": true,
@@ -75229,6 +78004,11 @@
     "old_ticker": null
   },
   "WTAI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WTBA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -75260,6 +78040,11 @@
   },
   "WTGUU": {
     "cik": "0002053927",
+    "old_ticker": null
+  },
+  "WTI": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "WTID": {
@@ -75330,12 +78115,22 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "WTTR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WTV": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
   },
   "WTW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "WU": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -75397,6 +78192,11 @@
     "cik": "0000839470",
     "old_ticker": "URRE"
   },
+  "WWW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WX": {
     "cik": null,
     "flat_file_only": true,
@@ -75404,6 +78204,11 @@
   },
   "WXM": {
     "cik": "0001979610",
+    "old_ticker": null
+  },
+  "WY": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "WYFI": {
@@ -75677,6 +78482,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "XERS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "XEUR": {
     "cik": null,
     "flat_file_only": true,
@@ -75749,6 +78559,11 @@
   },
   "XHLF": null,
   "XHOA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "XHR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -75988,6 +78803,11 @@
     "old_ticker": null
   },
   "XNDX": null,
+  "XNET": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "XNOV": {
     "cik": "0001667919",
     "old_ticker": null
@@ -76011,6 +78831,11 @@
     "old_ticker": null
   },
   "XOIL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "XOMA": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -76048,6 +78873,11 @@
   },
   "XOVL": null,
   "XOVR": null,
+  "XP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "XPAV": {
     "cik": null,
     "flat_file_only": true,
@@ -76104,6 +78934,16 @@
     "old_ticker": null
   },
   "XPEG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "XPEL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "XPER": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -76166,6 +79006,11 @@
   },
   "XQTM": {
     "cik": "0002078265",
+    "old_ticker": null
+  },
+  "XRAY": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "XRF": {
@@ -76539,7 +79384,22 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "YELP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "YETH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "YETI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "YEXT": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -76681,6 +79541,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "YOLO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "YOOV": {
     "cik": "0002001794",
     "old_ticker": "CIGL"
@@ -76696,6 +79561,11 @@
     "old_ticker": null
   },
   "YORKW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "YORW": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -76823,6 +79693,11 @@
     "old_ticker": null
   },
   "YTRA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "YUMC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -77023,6 +79898,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ZG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ZGEN": {
     "cik": null,
     "flat_file_only": true,
@@ -77198,6 +80078,11 @@
     "cik": "0002087447",
     "old_ticker": null
   },
+  "ZLAB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ZLRG": {
     "cik": null,
     "flat_file_only": true,
@@ -77214,6 +80099,11 @@
     "old_ticker": null
   },
   "ZLSWW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ZM": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -77332,6 +80222,11 @@
     "cik": "0002011458",
     "old_ticker": "ZGM"
   },
+  "ZTO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ZTOP": {
     "cik": null,
     "flat_file_only": true,
@@ -77342,7 +80237,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ZTS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ZTWO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ZUMZ": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -77421,6 +80326,11 @@
   },
   "ZYBT": {
     "cik": "0001975641",
+    "old_ticker": null
+  },
+  "ZYME": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "ZYN": {
