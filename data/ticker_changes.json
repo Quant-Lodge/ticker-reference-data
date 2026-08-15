@@ -4318,6 +4318,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "ANTW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ANTX": {
     "cik": "0001880438",
     "old_ticker": null
@@ -14553,6 +14558,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "CGPT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CGRN": {
     "cik": null,
     "flat_file_only": true,
@@ -17980,6 +17990,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "CSRA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CSRE": {
     "cik": null,
     "flat_file_only": true,
@@ -19054,6 +19069,11 @@
     "cik": "0001369241",
     "old_ticker": null
   },
+  "DACL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "DADA": {
     "cik": null,
     "flat_file_only": true,
@@ -19821,6 +19841,11 @@
     "old_ticker": null
   },
   "DENN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "DEPW": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -28183,6 +28208,11 @@
     "cik": "0002060083",
     "old_ticker": null
   },
+  "FOIL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FOLD": {
     "cik": null,
     "flat_file_only": true,
@@ -29980,6 +30010,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "GAIQ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GAL": {
     "cik": "0001516212",
     "old_ticker": null
@@ -31281,6 +31316,11 @@
     "old_ticker": null
   },
   "GHVIU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "GHXI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -34138,6 +34178,11 @@
     "old_ticker": null
   },
   "HBI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "HBIL": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -48796,7 +48841,27 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "MPDB": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "MPDY": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MPG": null,
+  "MPIA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "MPIM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MPL": null,
   "MPLN": {
     "cik": null,
@@ -49445,6 +49510,11 @@
   },
   "MTAL.WS": {
     "cik": "0002107724",
+    "old_ticker": null
+  },
+  "MTAW": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "MTBA": {
@@ -53802,6 +53872,11 @@
     "cik": "0001199046",
     "old_ticker": null
   },
+  "OAIW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "OAK": {
     "cik": null,
     "flat_file_only": true,
@@ -57926,6 +58001,16 @@
     "old_ticker": null
   },
   "PLCE": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "PLCI": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "PLCIR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -63786,6 +63871,11 @@
     "cik": "0002085091",
     "old_ticker": null
   },
+  "RVII": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "RVLP": {
     "cik": null,
     "flat_file_only": true,
@@ -67457,6 +67547,11 @@
     "old_ticker": null
   },
   "SNRHW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SNSC": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -76164,6 +76259,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VOGX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VOLT": {
     "cik": "0000103872",
     "old_ticker": null
@@ -77577,6 +77677,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "WLCOW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WLDN": {
     "cik": "0001370450",
     "old_ticker": null
@@ -78249,6 +78354,11 @@
   },
   "XAIR": {
     "cik": "0001641631",
+    "old_ticker": null
+  },
+  "XAIW": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "XAIX": {
