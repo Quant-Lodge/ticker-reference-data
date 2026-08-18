@@ -31365,6 +31365,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "GHXIW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "GHY": {
     "cik": "0001554697",
     "old_ticker": null
@@ -71448,6 +71453,11 @@
     "old_ticker": null
   },
   "THEO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "THEOR": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
