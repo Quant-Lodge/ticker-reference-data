@@ -1234,6 +1234,11 @@
     "cik": "0001273685",
     "old_ticker": "NYMT"
   },
+  "ADAMK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ADAML": {
     "cik": "0001273685",
     "old_ticker": "NYMT"
@@ -7818,6 +7823,11 @@
   "BBBY.WS": {
     "cik": "0001130713",
     "old_ticker": "BYON"
+  },
+  "BBBYW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "BBCA": {
     "cik": "0001485894",
@@ -14487,6 +14497,11 @@
     "old_ticker": null
   },
   "CGCB": null,
+  "CGCF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CGCFU": {
     "cik": null,
     "flat_file_only": true,
@@ -21942,6 +21957,11 @@
   },
   "DUKRW": {
     "cik": "0001638911",
+    "old_ticker": null
+  },
+  "DUKU": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "DUKX": {
@@ -31070,6 +31090,11 @@
     "old_ticker": null
   },
   "GFRR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "GFRRW": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -49078,7 +49103,17 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "MRCO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "MRCOU": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "MRCOW": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -53140,6 +53175,11 @@
     "cik": "0001635073",
     "old_ticker": null
   },
+  "NUR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "NURO": {
     "cik": null,
     "flat_file_only": true,
@@ -53630,6 +53670,11 @@
     "old_ticker": null
   },
   "NXGRW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "NXH": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -66302,6 +66347,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "SIC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "SICK": {
     "cik": null,
     "flat_file_only": true,
@@ -77078,6 +77128,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "WATR": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "WATS": {
     "cik": null,
     "flat_file_only": true,
@@ -79992,6 +80047,11 @@
     "cik": "0001667313",
     "old_ticker": null
   },
+  "ZDIS": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ZDVSV": {
     "cik": null,
     "flat_file_only": true,
@@ -80154,6 +80214,11 @@
     "old_ticker": null
   },
   "ZINGW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "ZINN": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
