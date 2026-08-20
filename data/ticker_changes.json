@@ -2682,6 +2682,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "AINF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AINP": {
     "cik": null,
     "flat_file_only": true,
@@ -7328,6 +7333,11 @@
     "old_ticker": null
   },
   "AXTL": null,
+  "AXTQ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AXTU": null,
   "AXTX": null,
   "AXU": {
@@ -16667,6 +16677,11 @@
     "cik": "0001270436",
     "old_ticker": "AFN"
   },
+  "COHQ": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "COHR": {
     "cik": "0000820318",
     "old_ticker": null
@@ -17653,6 +17668,11 @@
   },
   "CRNX": {
     "cik": "0001658247",
+    "old_ticker": null
+  },
+  "CROB": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "CRON": {
@@ -29349,6 +29369,11 @@
     "cik": "0001066923",
     "old_ticker": "SPU"
   },
+  "FTG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FTGC": {
     "cik": "0001561785",
     "old_ticker": null
@@ -36812,6 +36837,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "IA": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "IAC": {
     "cik": null,
     "flat_file_only": true,
@@ -36848,6 +36878,11 @@
     "old_ticker": null
   },
   "IACC": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "IACL": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -45898,6 +45933,11 @@
     "cik": "0001325964",
     "old_ticker": null
   },
+  "LWLX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "LX": {
     "cik": "0001708259",
     "old_ticker": null
@@ -47374,6 +47414,11 @@
   },
   "METL": null,
   "METPF": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "METQ": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -76276,6 +76321,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "VMRK": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "VMSB": {
     "cik": null,
     "flat_file_only": true,
@@ -78622,6 +78672,11 @@
     "old_ticker": null
   },
   "XCOR": null,
+  "XCSH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "XCUR": {
     "cik": "0001698530",
     "old_ticker": null
