@@ -160,6 +160,30 @@ didn't exist before that, so you'd be mixing regimes.
 `name` is the **current** name, not the one at halt time. For renamed securities the
 symbol isn't necessarily the one that traded that day either.
 
+## `history/float/`
+
+A versioned snapshot of a **historical float database** for small-cap US stocks:
+shares outstanding, estimated and effective float, dilution events (ATMs, warrants,
+convertibles, ELOCs), reverse splits, insider/institutional holdings, cash runway,
+Nasdaq deficiency notices, late-filing windows and Form 144 notices — ~2M rows
+across 16 tables, one `.csv.gz` per table, reconstructed from SEC EDGAR filings.
+
+Every number is **point-in-time safe**: rows carry the `filing_date` on which the
+fact became public, so joining on it can never look ahead. Full semantics live in
+the producer repo ([floatlens-go](https://github.com/Smallygon/floatlens-go), private).
+
+`manifest.json` carries a `snapshot_id` — a hash of the **content**, not the date.
+Two exports of identical data produce the same id, so the id is the thing to pin
+if you need two runs to have seen the same float.
+
+To rebuild the SQLite database (needs the `floatlens` binary):
+
+```bash
+floatlens snapshot import --from history/float --db float.db
+```
+
+Or just read the CSVs — `zcat float_points.csv.gz | head`.
+
 ## Update schedule
 
 `data/` is rebuilt daily around 02:15 ET. `fresh_universe.csv` is rewritten in full;
@@ -168,6 +192,9 @@ symbol isn't necessarily the one that traded that day either.
 `history/halts/` is updated Monday to Friday at **22:00 ET**, once the day has closed
 and the three sources have converged (news halts are published well into the afternoon
 and many resume the following day).
+
+`history/float/` is refreshed weekly (Saturday), with a Sunday verification pass.
+A weekend without a new commit there means the data genuinely did not change.
 
 Commits only happen when something actually changed — the last commit date is the date
 of the last real change, not of the last run.
