@@ -1,0 +1,91 @@
+{
+  "snapshot_id": "6ec7d592bfb8c4f5",
+  "generado": "2026-08-20T05:23:09Z",
+  "origen": "data/float.db",
+  "total_filas": 2030940,
+  "n_tickers": 1960,
+  "tablas": {
+    "atm_capacity": {
+      "filas": 248,
+      "columnas": 5,
+      "bytes": 3041
+    },
+    "cash_runway": {
+      "filas": 44899,
+      "columnas": 10,
+      "bytes": 1123800
+    },
+    "dilution_events": {
+      "filas": 38172,
+      "columnas": 33,
+      "bytes": 1137313
+    },
+    "float_points": {
+      "filas": 195352,
+      "columnas": 12,
+      "bytes": 2195672
+    },
+    "form144_notices": {
+      "filas": 9417,
+      "columnas": 11,
+      "bytes": 57330
+    },
+    "insider_holdings": {
+      "filas": 283616,
+      "columnas": 13,
+      "bytes": 3682559
+    },
+    "institutional_ownership": {
+      "filas": 1269789,
+      "columnas": 11,
+      "bytes": 49461299
+    },
+    "late_filing_windows": {
+      "filas": 3122,
+      "columnas": 7,
+      "bytes": 50848
+    },
+    "lockups": {
+      "filas": 4551,
+      "columnas": 7,
+      "bytes": 56063
+    },
+    "nasdaq_compliance": {
+      "filas": 4448,
+      "columnas": 8,
+      "bytes": 43206
+    },
+    "principal_shareholders": {
+      "filas": 410,
+      "columnas": 6,
+      "bytes": 6367
+    },
+    "reverse_splits": {
+      "filas": 1028,
+      "columnas": 10,
+      "bytes": 27825
+    },
+    "risk_windows": {
+      "filas": 34457,
+      "columnas": 12,
+      "bytes": 195906
+    },
+    "sc13_holdings": {
+      "filas": 15632,
+      "columnas": 14,
+      "bytes": 422136
+    },
+    "share_snapshots": {
+      "filas": 123839,
+      "columnas": 7,
+      "bytes": 1326710
+    },
+    "tickers": {
+      "filas": 1960,
+      "columnas": 15,
+      "bytes": 49725
+    }
+  },
+  "formato": "csv.gz por tabla (header + filas), manifest.json con snapshot_id = sha256 del contenido",
+  "adr": "Daedalus docs/decisions/ADR-005-float-artifact-versionado.md"
+}
