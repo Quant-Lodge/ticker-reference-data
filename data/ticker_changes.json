@@ -2355,6 +2355,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "AHBM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "AHCO": {
     "cik": null,
     "flat_file_only": true,
@@ -27634,6 +27639,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "FLEL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "FLEU": {
     "cik": "0001655589",
     "old_ticker": null
@@ -41560,6 +41570,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "KAIT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "KAL": {
     "cik": null,
     "flat_file_only": true,
@@ -42807,6 +42822,11 @@
     "old_ticker": null
   },
   "KSLV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "KSMH": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -46014,6 +46034,11 @@
     "old_ticker": null
   },
   "LYLTV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "LYNX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -49945,6 +49970,11 @@
   "MUFG": {
     "cik": "0000067088",
     "old_ticker": "HBANO"
+  },
+  "MUG": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "MUI": {
     "cik": null,
@@ -56852,6 +56882,11 @@
     "cik": "0001611052",
     "old_ticker": null
   },
+  "PCOV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "PCPC": {
     "cik": null,
     "flat_file_only": true,
@@ -63278,6 +63313,11 @@
     "cik": "0001771146",
     "old_ticker": null
   },
+  "ROBX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ROC": {
     "cik": "0002077709",
     "old_ticker": null
@@ -69315,6 +69355,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "STMX": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "STNC": {
     "cik": "0000891944",
     "old_ticker": null
@@ -74196,6 +74241,11 @@
   },
   "UBCP": {
     "cik": "0000731653",
+    "old_ticker": null
+  },
+  "UBER": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "UBEW": {
@@ -79274,6 +79324,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "XQBT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "XQQI": {
     "cik": null,
     "flat_file_only": true,
@@ -79468,12 +79523,27 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "XVAP": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "XVNV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "XVO": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
   },
   "XVOL": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "XVTS": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -79493,6 +79563,11 @@
     "old_ticker": "FH"
   },
   "XWIN": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "XWNG": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
