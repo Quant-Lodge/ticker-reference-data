@@ -1,84 +1,84 @@
 {
-  "snapshot_id": "6ec7d592bfb8c4f5",
-  "generado": "2026-08-20T13:44:26Z",
+  "snapshot_id": "81d98e8261f5c343",
+  "generado": "2026-08-22T08:55:16Z",
   "origen": "data/float.db",
-  "total_filas": 2030940,
+  "total_filas": 2031826,
   "n_tickers": 1960,
   "tablas": {
     "atm_capacity": {
-      "filas": 248,
+      "filas": 249,
       "columnas": 5,
-      "bytes": 3041
+      "bytes": 3055
     },
     "cash_runway": {
-      "filas": 44899,
+      "filas": 44932,
       "columnas": 10,
-      "bytes": 1123800
+      "bytes": 1124650
     },
     "dilution_events": {
-      "filas": 38172,
+      "filas": 38248,
       "columnas": 33,
-      "bytes": 1137313
+      "bytes": 1139515
     },
     "float_points": {
-      "filas": 195352,
+      "filas": 195440,
       "columnas": 12,
-      "bytes": 2195672
+      "bytes": 2194252
     },
     "form144_notices": {
-      "filas": 9417,
+      "filas": 9468,
       "columnas": 11,
-      "bytes": 57330
+      "bytes": 57614
     },
     "insider_holdings": {
-      "filas": 283616,
+      "filas": 283993,
       "columnas": 13,
-      "bytes": 3682559
+      "bytes": 3688314
     },
     "institutional_ownership": {
       "filas": 1269789,
       "columnas": 11,
-      "bytes": 49461299
+      "bytes": 49459381
     },
     "late_filing_windows": {
       "filas": 3122,
       "columnas": 7,
-      "bytes": 50848
+      "bytes": 51033
     },
     "lockups": {
-      "filas": 4551,
+      "filas": 4556,
       "columnas": 7,
-      "bytes": 56063
+      "bytes": 56115
     },
     "nasdaq_compliance": {
-      "filas": 4448,
+      "filas": 4468,
       "columnas": 8,
-      "bytes": 43206
+      "bytes": 43380
     },
     "principal_shareholders": {
-      "filas": 410,
+      "filas": 411,
       "columnas": 6,
-      "bytes": 6367
+      "bytes": 6393
     },
     "reverse_splits": {
-      "filas": 1028,
+      "filas": 1029,
       "columnas": 10,
-      "bytes": 27825
+      "bytes": 27849
     },
     "risk_windows": {
-      "filas": 34457,
+      "filas": 34515,
       "columnas": 12,
-      "bytes": 195906
+      "bytes": 196259
     },
     "sc13_holdings": {
-      "filas": 15632,
+      "filas": 15707,
       "columnas": 14,
-      "bytes": 422136
+      "bytes": 424408
     },
     "share_snapshots": {
-      "filas": 123839,
+      "filas": 123939,
       "columnas": 7,
-      "bytes": 1326710
+      "bytes": 1328679
     },
     "tickers": {
       "filas": 1960,
