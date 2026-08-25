@@ -14542,6 +14542,11 @@
     "flat_file_only": true,
     "old_ticker": null
   },
+  "CGCFW": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "CGCP": {
     "cik": null,
     "flat_file_only": true,
@@ -67862,6 +67867,11 @@
     "old_ticker": null
   },
   "SNUSPH": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "SNUSPI": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
