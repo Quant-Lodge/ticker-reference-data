@@ -1264,6 +1264,11 @@
     "cik": "0001976322",
     "old_ticker": null
   },
+  "ADBT": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "ADCPA": {
     "cik": null,
     "flat_file_only": true,
@@ -41389,6 +41394,11 @@
     "cik": "0001797318",
     "old_ticker": null
   },
+  "JULV": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "JULW": {
     "cik": null,
     "flat_file_only": true,
@@ -42391,6 +42401,11 @@
   "KLXE": {
     "cik": "0001738827",
     "old_ticker": "KLXEV"
+  },
+  "KLXER": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
   },
   "KLXY": {
     "cik": null,
@@ -43554,6 +43569,11 @@
     "old_ticker": null
   },
   "LBO": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
+  "LBOX": {
     "cik": null,
     "flat_file_only": true,
     "old_ticker": null
@@ -80098,6 +80118,11 @@
     "cik": "0001924868",
     "old_ticker": null
   },
+  "YRAM": {
+    "cik": null,
+    "flat_file_only": true,
+    "old_ticker": null
+  },
   "YRCW": {
     "cik": null,
     "flat_file_only": true,
@@ -80299,6 +80324,11 @@
   },
   "ZCMD": {
     "cik": "0001785566",
+    "old_ticker": null
+  },
+  "ZCSH": {
+    "cik": null,
+    "flat_file_only": true,
     "old_ticker": null
   },
   "ZD": {
