@@ -19,7 +19,7 @@ name: Release on data change
 on:
   push:
     branches: [main]
-    paths: ['data/**']
+    paths: ['data/fresh_universe.csv', 'data/ticker_changes.json']  # NO data/signals/** — cada dataset releasea con SU workflow
   workflow_dispatch:
 
 concurrency:
