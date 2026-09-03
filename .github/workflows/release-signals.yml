@@ -1,0 +1,46 @@
+name: Release paper signals on change
+
+# SOLO ARTEFACTOS: la lógica generadora vive en el repo privado (Daedalus,
+# workflow paper-signals.yml) y pushea acá el JSON con deploy key — mismo
+# patrón que fresh_universe/halts. Este workflow convierte el push en release
+# INMUTABLE `signals-<as_of>` (tag prefijado: los pelados YYYY-MM-DD son de
+# fresh_universe; cada dataset deriva su tag de SU dato — ver release-halts).
+#
+# Contrato (privado): un día sin señales publica archivo igual
+# (status: no_signals). 200 = el de ese día; 404 = pipeline caído.
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/signals/**']
+  workflow_dispatch:
+
+concurrency:
+  group: release-signals
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Release each changed signals file
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          for FILE in data/signals/signals_*.json; do
+            [ -f "$FILE" ] || continue
+            AS_OF=$(python3 -c "import json;print(json.load(open('$FILE'))['as_of'])")
+            STATUS=$(python3 -c "import json;print(json.load(open('$FILE'))['status'])")
+            TAG="signals-$AS_OF"
+            gh release view "$TAG" >/dev/null 2>&1 || \
+              gh release create "$TAG" --title "Paper signals $AS_OF" \
+                --notes "status: $STATUS · la ausencia de este release = pipeline caído, nunca 'no hubo señales'"
+            gh release upload "$TAG" "$FILE" --clobber
+            echo "released $TAG <- $FILE ($STATUS)"
+          done
