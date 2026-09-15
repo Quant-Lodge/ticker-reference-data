@@ -2,8 +2,8 @@
  "schema_version": 1,
  "setup": "parabolic_short_5_10",
  "as_of": "2026-09-15",
- "generated_at": "2026-09-15T15:16:54Z",
- "generator_sha": "1dc67c7",
+ "generated_at": "2026-09-15T16:11:28Z",
+ "generator_sha": "b8e2ff7",
  "status": "ok",
  "reason": null,
  "signals": [
@@ -11,17 +11,17 @@
    "ticker": "VEEA",
    "side": "short",
    "entry_type": "MOC",
-   "ref_price": 5.6901,
-   "entry_model": 5.673,
-   "stop_level": 7.3749,
+   "ref_price": 5.725,
+   "entry_model": 5.7078,
+   "stop_level": 7.4201,
    "risk_pct": 0.25,
    "cover": "MOC_D+3",
    "valid_for": "2026-09-15",
    "meta": {
     "gap_pct": 89.1,
-    "dollar_vol": 727117800
+    "dollar_vol": 819500176
    }
   }
  ],
- "checksum_sha256": "930b4663a1963971f460c0bdd8187fe8a684e713a5749e668518eda2fcb485cc"
+ "checksum_sha256": "6a0dc3de18b230e902271a75b4a1b25995f741027a20fdcc113768a06bc43882"
 }
