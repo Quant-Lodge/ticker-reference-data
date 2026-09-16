@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "setup": "parabolic_short_5_10",
+ "as_of": "2026-09-16",
+ "generated_at": "2026-09-16T15:09:57Z",
+ "generator_sha": "35f32d2",
+ "status": "ok",
+ "reason": null,
+ "signals": [
+  {
+   "ticker": "MEDS",
+   "side": "short",
+   "entry_type": "MOC",
+   "ref_price": 9.15,
+   "entry_model": 9.1226,
+   "stop_level": 11.8594,
+   "risk_pct": 0.25,
+   "cover": "MOC_D+3",
+   "valid_for": "2026-09-16",
+   "meta": {
+    "gap_pct": 149.1,
+    "dollar_vol": 1245817511
+   }
+  }
+ ],
+ "checksum_sha256": "5f5b3fa75c5b911706b9b07d44314ef8e6cc21dff5e2172768e00929eebbfce6"
+}
