@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "setup": "parabolic_short_5_10",
+ "as_of": "2026-09-18",
+ "generated_at": "2026-09-18T15:20:10Z",
+ "generator_sha": "3631b0a",
+ "status": "ok",
+ "reason": null,
+ "signals": [
+  {
+   "ticker": "IMCC",
+   "side": "short",
+   "entry_type": "MOC",
+   "ref_price": 5.87,
+   "entry_model": 5.8524,
+   "stop_level": 7.6081,
+   "risk_pct": 0.25,
+   "cover": "MOC_D+3",
+   "valid_for": "2026-09-18",
+   "meta": {
+    "gap_pct": 86.2,
+    "dollar_vol": 468569035
+   }
+  }
+ ],
+ "checksum_sha256": "c400f1ced6ef0fb38bf88513adf2aa3dd39747049803a64ecfbbc4fd550e649d"
+}
