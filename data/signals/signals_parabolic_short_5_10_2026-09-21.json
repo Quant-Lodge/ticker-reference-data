@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "setup": "parabolic_short_5_10",
+ "as_of": "2026-09-21",
+ "generated_at": "2026-09-22T12:00:43Z",
+ "generator_sha": "0b88ac9",
+ "status": "ok",
+ "reason": null,
+ "signals": [
+  {
+   "ticker": "GRML",
+   "side": "short",
+   "entry_type": "MOC",
+   "ref_price": 9.42,
+   "entry_model": 9.3917,
+   "stop_level": 12.2092,
+   "risk_pct": 0.25,
+   "cover": "MOC_D+3",
+   "valid_for": "2026-09-21",
+   "meta": {
+    "gap_pct": 157.2,
+    "dollar_vol": 2056753847
+   }
+  }
+ ],
+ "checksum_sha256": "cc92ab3721ac9d64294d14154add0aaa5479034041824278df3008487585a53f"
+}
