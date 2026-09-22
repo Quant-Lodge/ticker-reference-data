@@ -1,164 +1,149 @@
 {
-  "snapshot_id": "c1f42948670cad7a",
-  "generado": "2026-09-17T21:50:05Z",
-  "origen": "data/float-rerun.db",
-  "total_filas": 3261051,
-  "n_tickers": 1960,
+  "snapshot_id": "75d34c79c9a773c7",
+  "generado": "2026-09-22T03:38:01Z",
+  "origen": "data/float.db",
+  "total_filas": 1423759,
+  "n_tickers": 1383,
   "tablas": {
     "atm_capacity": {
-      "filas": 353,
+      "filas": 301,
       "columnas": 8,
-      "bytes": 4733
+      "bytes": 4037
     },
     "cash_runway": {
-      "filas": 44982,
+      "filas": 37202,
       "columnas": 14,
-      "bytes": 1767728
-    },
-    "catalyst_events": {
-      "filas": 2430,
-      "columnas": 9,
-      "bytes": 133763
+      "bytes": 1557369
     },
     "company_names": {
-      "filas": 909,
+      "filas": 1277,
       "columnas": 5,
-      "bytes": 20240
+      "bytes": 27751
     },
     "dilution_events": {
-      "filas": 50839,
+      "filas": 42142,
       "columnas": 47,
-      "bytes": 2183524
+      "bytes": 1765857
     },
     "eloc_capacity": {
       "filas": 15,
       "columnas": 4,
-      "bytes": 344
+      "bytes": 339
     },
     "exchange_caps": {
-      "filas": 1685,
+      "filas": 1701,
       "columnas": 13,
-      "bytes": 130275
+      "bytes": 130202
     },
     "filings": {
-      "filas": 488944,
+      "filas": 493673,
       "columnas": 10,
-      "bytes": 9155387
+      "bytes": 9068484
     },
     "float_points": {
-      "filas": 228711,
+      "filas": 192336,
       "columnas": 13,
-      "bytes": 3030794
+      "bytes": 2024309
     },
     "form144_notices": {
-      "filas": 11394,
+      "filas": 9678,
       "columnas": 11,
-      "bytes": 68858
+      "bytes": 57923
     },
     "insider_holdings": {
-      "filas": 285403,
+      "filas": 227155,
       "columnas": 13,
-      "bytes": 3715044
-    },
-    "institutional_ownership": {
-      "filas": 1698572,
-      "columnas": 11,
-      "bytes": 28833064
+      "bytes": 2920916
     },
     "late_filing_windows": {
-      "filas": 3204,
+      "filas": 2639,
       "columnas": 7,
-      "bytes": 52351
+      "bytes": 42598
     },
     "lockups": {
-      "filas": 5641,
+      "filas": 4712,
       "columnas": 7,
-      "bytes": 69592
+      "bytes": 57259
     },
     "nasdaq_compliance": {
-      "filas": 4645,
+      "filas": 3808,
       "columnas": 12,
-      "bytes": 58272
+      "bytes": 49844
     },
     "principal_shareholders": {
-      "filas": 1138,
+      "filas": 980,
       "columnas": 6,
-      "bytes": 16737
-    },
-    "proxy_proposals": {
-      "filas": 1889,
-      "columnas": 12,
-      "bytes": 31564
+      "bytes": 14494
     },
     "public_float": {
-      "filas": 17934,
+      "filas": 20842,
       "columnas": 11,
-      "bytes": 254329
+      "bytes": 285531
+    },
+    "resale_registrations": {
+      "filas": 8261,
+      "columnas": 16,
+      "bytes": 147256
     },
     "reverse_splits": {
-      "filas": 1857,
+      "filas": 1809,
       "columnas": 11,
-      "bytes": 58925
+      "bytes": 57164
     },
     "risk_windows": {
-      "filas": 44805,
+      "filas": 36597,
       "columnas": 12,
-      "bytes": 271586
+      "bytes": 215963
     },
     "sc13_holdings": {
-      "filas": 15902,
+      "filas": 11502,
       "columnas": 14,
-      "bytes": 429553
+      "bytes": 307632
     },
     "share_authorized": {
-      "filas": 70827,
+      "filas": 71245,
       "columnas": 6,
-      "bytes": 511174
+      "bytes": 502077
     },
     "share_snapshots": {
-      "filas": 217039,
+      "filas": 195284,
       "columnas": 7,
-      "bytes": 1921138
+      "bytes": 1686694
     },
     "shelf_registrations": {
-      "filas": 7380,
+      "filas": 7519,
       "columnas": 11,
-      "bytes": 177113
+      "bytes": 177780
     },
     "shelf_takedowns": {
-      "filas": 5619,
+      "filas": 5708,
       "columnas": 6,
-      "bytes": 62790
+      "bytes": 62399
     },
     "split_votes": {
-      "filas": 1386,
+      "filas": 1407,
       "columnas": 15,
-      "bytes": 37527
+      "bytes": 37617
     },
     "tickers": {
-      "filas": 1960,
+      "filas": 1383,
       "columnas": 17,
-      "bytes": 58244
+      "bytes": 45539
     },
     "warrant_registrations": {
-      "filas": 18326,
+      "filas": 18424,
       "columnas": 7,
-      "bytes": 154999
+      "bytes": 152309
     },
     "warrant_series": {
-      "filas": 12199,
+      "filas": 12324,
       "columnas": 15,
-      "bytes": 123828
-    },
-    "warrant_stack": {
-      "filas": 1157,
-      "columnas": 9,
-      "bytes": 14779
+      "bytes": 123159
     },
     "warrants": {
-      "filas": 13906,
+      "filas": 13835,
       "columnas": 18,
-      "bytes": 368132
+      "bytes": 362586
     }
   },
   "formato": "csv.gz por tabla (header + filas), manifest.json con snapshot_id = sha256 del contenido",
