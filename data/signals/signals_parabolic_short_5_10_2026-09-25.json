@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "setup": "parabolic_short_5_10",
+ "as_of": "2026-09-25",
+ "generated_at": "2026-09-25T14:22:02Z",
+ "generator_sha": "060eaf3",
+ "status": "ok",
+ "reason": null,
+ "signals": [
+  {
+   "ticker": "INLF",
+   "side": "short",
+   "entry_type": "MOC",
+   "ref_price": 5.3715,
+   "entry_model": 5.3554,
+   "stop_level": 6.962,
+   "risk_pct": 0.25,
+   "cover": "MOC_D+3",
+   "valid_for": "2026-09-25",
+   "meta": {
+    "gap_pct": 111.9,
+    "dollar_vol": 215598177
+   }
+  }
+ ],
+ "checksum_sha256": "2d848ceeb1431d157caa7ca7c1e9b8706dd3e7786bc9b1045649808068d2bd90"
+}
