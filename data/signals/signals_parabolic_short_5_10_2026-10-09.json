@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "setup": "parabolic_short_5_10",
+ "as_of": "2026-10-09",
+ "generated_at": "2026-10-09T13:44:31Z",
+ "generator_sha": "0594695",
+ "status": "ok",
+ "reason": null,
+ "signals": [
+  {
+   "ticker": "VIVK",
+   "side": "short",
+   "entry_type": "MOC",
+   "ref_price": 6.31,
+   "entry_model": 6.2911,
+   "stop_level": 8.1784,
+   "risk_pct": 0.25,
+   "cover": "MOC_D+3",
+   "valid_for": "2026-10-09",
+   "meta": {
+    "gap_pct": 74.8,
+    "dollar_vol": 102890730
+   }
+  }
+ ],
+ "checksum_sha256": "15bac3120f8e4d3c0fee0a084d0a354d08bc0808556d979a4b0dd34063e1f978"
+}
