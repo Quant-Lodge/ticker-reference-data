@@ -1,0 +1,27 @@
+{
+ "schema_version": 1,
+ "setup": "parabolic_short_5_10",
+ "as_of": "2026-11-03",
+ "generated_at": "2026-11-03T14:40:36Z",
+ "generator_sha": "a06e535",
+ "status": "ok",
+ "reason": null,
+ "signals": [
+  {
+   "ticker": "PARA",
+   "side": "short",
+   "entry_type": "MOC",
+   "ref_price": 5.15,
+   "entry_model": 5.1345,
+   "stop_level": 6.6749,
+   "risk_pct": 0.25,
+   "cover": "MOC_D+3",
+   "valid_for": "2026-11-03",
+   "meta": {
+    "gap_pct": 120.7,
+    "dollar_vol": 114002439
+   }
+  }
+ ],
+ "checksum_sha256": "59fece000ad08edacbdaa227886696f726947849e6d120e336ee9dc3c9b79f00"
+}
