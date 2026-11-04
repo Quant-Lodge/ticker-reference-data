@@ -1,89 +1,194 @@
 {
-  "snapshot_id": "e0335a832e51605b",
-  "generado": "2026-10-18T09:13:57Z",
-  "origen": "/home/ubuntu/floatlens-go/data/float.db",
-  "total_filas": 2030940,
-  "n_tickers": 1960,
+  "snapshot_id": "dc1d36b2d6e3be10",
+  "generado": "2026-11-04T01:09:00Z",
+  "origen": "/work/floatlens/data/float.db",
+  "total_filas": 3160990,
+  "n_tickers": 1383,
   "tablas": {
     "atm_capacity": {
-      "filas": 248,
-      "columnas": 5,
-      "bytes": 3045
+      "filas": 301,
+      "columnas": 8,
+      "bytes": 4108
+    },
+    "authorized_changes": {
+      "filas": 711,
+      "columnas": 11,
+      "bytes": 15754
     },
     "cash_runway": {
-      "filas": 44899,
-      "columnas": 10,
-      "bytes": 1123598
+      "filas": 43112,
+      "columnas": 15,
+      "bytes": 1885963
+    },
+    "company_names": {
+      "filas": 1299,
+      "columnas": 5,
+      "bytes": 28524
+    },
+    "conv_terms": {
+      "filas": 112,
+      "columnas": 17,
+      "bytes": 3627
     },
     "dilution_events": {
-      "filas": 38172,
-      "columnas": 33,
-      "bytes": 1584905
+      "filas": 46476,
+      "columnas": 50,
+      "bytes": 1956291
+    },
+    "eloc_capacity": {
+      "filas": 14,
+      "columnas": 4,
+      "bytes": 327
+    },
+    "exchange_caps": {
+      "filas": 1788,
+      "columnas": 13,
+      "bytes": 136483
+    },
+    "filings": {
+      "filas": 506492,
+      "columnas": 11,
+      "bytes": 9573693
     },
     "float_points": {
-      "filas": 195352,
-      "columnas": 12,
-      "bytes": 2178119
+      "filas": 200177,
+      "columnas": 15,
+      "bytes": 2926734
     },
     "form144_notices": {
-      "filas": 9417,
+      "filas": 9853,
       "columnas": 11,
-      "bytes": 56585
+      "bytes": 60488
+    },
+    "home_country_practice": {
+      "filas": 1024,
+      "columnas": 6,
+      "bytes": 10452
     },
     "insider_holdings": {
-      "filas": 283616,
+      "filas": 229312,
       "columnas": 13,
-      "bytes": 3691069
+      "bytes": 3006236
     },
     "institutional_ownership": {
-      "filas": 1269789,
+      "filas": 1662012,
       "columnas": 11,
-      "bytes": 20972882
+      "bytes": 28216447
     },
     "late_filing_windows": {
-      "filas": 3122,
+      "filas": 2647,
       "columnas": 7,
-      "bytes": 50848
+      "bytes": 43542
+    },
+    "listing_exchanges": {
+      "filas": 9215,
+      "columnas": 5,
+      "bytes": 89532
     },
     "lockups": {
-      "filas": 4551,
+      "filas": 4731,
       "columnas": 7,
-      "bytes": 56009
+      "bytes": 58716
     },
     "nasdaq_compliance": {
-      "filas": 4448,
-      "columnas": 8,
-      "bytes": 43117
+      "filas": 7071,
+      "columnas": 17,
+      "bytes": 97701
     },
     "principal_shareholders": {
-      "filas": 410,
+      "filas": 995,
       "columnas": 6,
-      "bytes": 6313
+      "bytes": 14794
+    },
+    "proxy_proposals": {
+      "filas": 1698,
+      "columnas": 13,
+      "bytes": 31082
+    },
+    "public_float": {
+      "filas": 21104,
+      "columnas": 11,
+      "bytes": 293237
+    },
+    "resale_registrations": {
+      "filas": 8987,
+      "columnas": 16,
+      "bytes": 163323
     },
     "reverse_splits": {
-      "filas": 1028,
-      "columnas": 10,
-      "bytes": 29324
+      "filas": 2181,
+      "columnas": 13,
+      "bytes": 70003
     },
     "risk_windows": {
-      "filas": 34457,
+      "filas": 40282,
       "columnas": 12,
-      "bytes": 195880
+      "bytes": 244561
     },
     "sc13_holdings": {
-      "filas": 15632,
+      "filas": 12005,
       "columnas": 14,
-      "bytes": 421980
+      "bytes": 325732
+    },
+    "share_authorized": {
+      "filas": 71662,
+      "columnas": 6,
+      "bytes": 517303
     },
     "share_snapshots": {
-      "filas": 123839,
+      "filas": 204191,
       "columnas": 7,
-      "bytes": 1238726
+      "bytes": 1819452
+    },
+    "shelf_registrations": {
+      "filas": 7628,
+      "columnas": 11,
+      "bytes": 184258
+    },
+    "shelf_takedowns": {
+      "filas": 5792,
+      "columnas": 6,
+      "bytes": 64582
+    },
+    "split_votes": {
+      "filas": 1471,
+      "columnas": 15,
+      "bytes": 39401
     },
     "tickers": {
-      "filas": 1960,
+      "filas": 1383,
+      "columnas": 17,
+      "bytes": 45752
+    },
+    "warrant_modifications": {
+      "filas": 32,
+      "columnas": 9,
+      "bytes": 685
+    },
+    "warrant_registrations": {
+      "filas": 20399,
+      "columnas": 7,
+      "bytes": 171943
+    },
+    "warrant_series": {
+      "filas": 13971,
       "columnas": 15,
-      "bytes": 48474
+      "bytes": 143060
+    },
+    "warrant_stack": {
+      "filas": 2993,
+      "columnas": 11,
+      "bytes": 40780
+    },
+    "warrant_stack_series": {
+      "filas": 1899,
+      "columnas": 10,
+      "bytes": 23898
+    },
+    "warrants": {
+      "filas": 15970,
+      "columnas": 18,
+      "bytes": 421392
     }
   },
   "formato": "csv.gz por tabla (header + filas), manifest.json con snapshot_id = sha256 del contenido",
