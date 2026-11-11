@@ -1,8 +1,8 @@
 {
-  "snapshot_id": "e431963918f9c004",
-  "generado": "2026-11-11T18:08:39Z",
+  "snapshot_id": "4d619315c7951040",
+  "generado": "2026-11-11T20:58:33Z",
   "origen": "/work/floatlens/data/float.db",
-  "total_filas": 4864429,
+  "total_filas": 4864438,
   "n_tickers": 1833,
   "tablas": {
     "atm_capacity": {
@@ -23,7 +23,7 @@
     "company_names": {
       "filas": 1640,
       "columnas": 5,
-      "bytes": 35480
+      "bytes": 35483
     },
     "conv_terms": {
       "filas": 131,
@@ -56,9 +56,9 @@
       "bytes": 12500024
     },
     "float_points": {
-      "filas": 270843,
+      "filas": 270849,
       "columnas": 15,
-      "bytes": 3763010
+      "bytes": 3953977
     },
     "form144_notices": {
       "filas": 16031,
@@ -78,7 +78,7 @@
     "institutional_ownership": {
       "filas": 2854716,
       "columnas": 11,
-      "bytes": 49177759
+      "bytes": 49180192
     },
     "late_filing_windows": {
       "filas": 3210,
@@ -121,9 +121,9 @@
       "bytes": 193196
     },
     "reverse_splits": {
-      "filas": 2788,
+      "filas": 2791,
       "columnas": 14,
-      "bytes": 87793
+      "bytes": 87876
     },
     "risk_windows": {
       "filas": 53245,
