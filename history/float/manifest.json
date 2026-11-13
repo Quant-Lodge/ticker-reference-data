@@ -1,8 +1,8 @@
 {
-  "snapshot_id": "4d619315c7951040",
-  "generado": "2026-11-11T20:58:33Z",
+  "snapshot_id": "d2b40ba77f57f968",
+  "generado": "2026-11-13T17:36:57Z",
   "origen": "/work/floatlens/data/float.db",
-  "total_filas": 4864438,
+  "total_filas": 4976293,
   "n_tickers": 1833,
   "tablas": {
     "atm_capacity": {
@@ -16,9 +16,9 @@
       "bytes": 18597
     },
     "cash_runway": {
-      "filas": 55642,
+      "filas": 55813,
       "columnas": 15,
-      "bytes": 2481488
+      "bytes": 2490445
     },
     "company_names": {
       "filas": 1640,
@@ -31,14 +31,14 @@
       "bytes": 4078
     },
     "deal_counterparties": {
-      "filas": 29134,
+      "filas": 29131,
       "columnas": 11,
-      "bytes": 678447
+      "bytes": 678345
     },
     "dilution_events": {
-      "filas": 59264,
-      "columnas": 51,
-      "bytes": 2534142
+      "filas": 59261,
+      "columnas": 52,
+      "bytes": 2544604
     },
     "eloc_capacity": {
       "filas": 19,
@@ -56,9 +56,9 @@
       "bytes": 12500024
     },
     "float_points": {
-      "filas": 270849,
+      "filas": 273626,
       "columnas": 15,
-      "bytes": 3953977
+      "bytes": 3939667
     },
     "form144_notices": {
       "filas": 16031,
@@ -73,12 +73,12 @@
     "insider_holdings": {
       "filas": 308662,
       "columnas": 15,
-      "bytes": 7773147
+      "bytes": 7772860
     },
     "institutional_ownership": {
-      "filas": 2854716,
+      "filas": 2963347,
       "columnas": 11,
-      "bytes": 49180192
+      "bytes": 51566998
     },
     "late_filing_windows": {
       "filas": 3210,
@@ -101,9 +101,9 @@
       "bytes": 117629
     },
     "principal_shareholders": {
-      "filas": 1383,
+      "filas": 1386,
       "columnas": 6,
-      "bytes": 19983
+      "bytes": 20015
     },
     "proxy_proposals": {
       "filas": 1998,
@@ -116,34 +116,34 @@
       "bytes": 360523
     },
     "resale_registrations": {
-      "filas": 10571,
+      "filas": 10873,
       "columnas": 16,
-      "bytes": 193196
+      "bytes": 197388
     },
     "reverse_splits": {
-      "filas": 2791,
-      "columnas": 14,
-      "bytes": 87876
+      "filas": 2801,
+      "columnas": 16,
+      "bytes": 88525
     },
     "risk_windows": {
       "filas": 53245,
       "columnas": 12,
-      "bytes": 326387
+      "bytes": 326383
     },
     "sc13_holdings": {
       "filas": 15584,
       "columnas": 14,
-      "bytes": 423410
+      "bytes": 426636
     },
     "share_authorized": {
-      "filas": 91673,
+      "filas": 91983,
       "columnas": 6,
-      "bytes": 661380
+      "bytes": 663454
     },
     "share_snapshots": {
-      "filas": 264258,
+      "filas": 263915,
       "columnas": 7,
-      "bytes": 2356813
+      "bytes": 2360414
     },
     "shelf_registrations": {
       "filas": 9481,
@@ -168,7 +168,7 @@
     "tickers": {
       "filas": 1833,
       "columnas": 17,
-      "bytes": 59463
+      "bytes": 59458
     },
     "warrant_modifications": {
       "filas": 32,
@@ -198,7 +198,7 @@
     "warrants": {
       "filas": 21500,
       "columnas": 18,
-      "bytes": 570680
+      "bytes": 570688
     }
   },
   "formato": "csv.gz por tabla (header + filas), manifest.json con snapshot_id = sha256 del contenido",
