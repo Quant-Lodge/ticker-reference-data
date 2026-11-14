@@ -2,8 +2,8 @@
  "schema_version": 1,
  "setup": "parabolic_short_5_10",
  "as_of": "2026-11-13",
- "generated_at": "2026-11-13T14:54:25Z",
- "generator_sha": "6543827",
+ "generated_at": "2026-11-14T13:48:31Z",
+ "generator_sha": "d336986",
  "status": "ok",
  "reason": null,
  "signals": [
@@ -11,17 +11,17 @@
    "ticker": "FCUV",
    "side": "short",
    "entry_type": "MOC",
-   "ref_price": 7.05,
-   "entry_model": 7.0288,
-   "stop_level": 9.1374,
+   "ref_price": 7.08,
+   "entry_model": 7.0588,
+   "stop_level": 9.1764,
    "risk_pct": 0.25,
    "cover": "MOC_D+3",
    "valid_for": "2026-11-13",
    "meta": {
     "gap_pct": 108.7,
-    "dollar_vol": 342995603
+    "dollar_vol": 831480634
    }
   }
  ],
- "checksum_sha256": "ce2c0b3d39e8904c41d03ad8986f989247321b20abba94e2747a9c1a54445114"
+ "checksum_sha256": "b5c20b86e006775d00b098cbefa79eedc997d2c487d451c7753263fc10e8d240"
 }
